@@ -1,0 +1,84 @@
+version: "2.0"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - faq
+
+responses:
+  utter_greet:
+  - text: "Hey! How can I help you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_faq:
+  - text: say default
+  utter_faq/apply_permit:
+  - text: "You should apply for a study permit before coming to Canada. Make sure you have a letter of acceptance from a designated learning institution in Canada before you apply. \nYou should apply online for a study permit, whether you’re outside of Canada or already in Canada. If you can’t apply online because of a disability or because there’s a  problem with the online application, you can apply on paper. \nDid that help you?"
+  utter_faq/need_permit:
+  - text: "Most foreign nationals need a study permit to study in Canada. Some people in specific situations may not. \nYou should apply for a study permit before coming to Canada. Only some people can apply for a study permit from within Canada. \nBefore you apply, you must have a letter of acceptance from a designated learning institution in Canada. \nLearn more about who needs a study permit- https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/eligibility.html \nDid that help you?"
+
+  utter_faq/when_permit:
+  - text: "Apply as soon as you receive your letter of acceptance. The times needed to process your application may vary among visa offices. \nCheck our application processing times for details- https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html \nDid that help you?"
+
+  utter_faq/pay_permit:
+  - text: "You must pay a processing fee with your application. \nFor details, visit the Pay your fees page to learn about the methods of payment accepted by Canadian visa offices. \nhttps://www.cic.gc.ca/english/information/fees/index.asp \nDid that help you?"
+
+  utter_faq/money_back:
+  - text: "No, you will not get your money back, even if your application is refused. \nDid that help you?"
+
+  utter_faq/permit_process_time:
+  - text: "Processing times vary. It depends on the type of application you submit, and where it is processed. IRCC lists processing times for applications submitted inside and outside Canada. \nVisit often to get the latest details <add url> \nDid that help you?"
+
+  utter_faq/less6_permit:
+  - text: "If you are already in Canada, no, you don't need a study permit. \n\nIf you are applying from outside Canada, due to Covid you are requires to \n1. Get a study permit. \n2. Attend a DLI with a COVID-19 readiness plan approved by its province or territory. \nDid that help you?"
+
+  utter_faq/schoolchange_permitchange:
+  - text: "You don’t need to change your study permit if you’re changing your school or study program, however, \nIf you are a high school student: \nIf you’re moving to post-secondary school and want to be able to work while you study, you must apply to change the conditions of your study permit. \nIf you’re a post-secondary student: \nyou do have to report when you change post-secondary schools. Find out how to report that you’ve changed your post-secondary school- <add url> \nDid that help you?"
+
+  utter_faq/med_exam:
+  - text: "Yes, you need a medical exam to study in Canada if you: \n1. come from a designated country/territory for which Canada requires a visa \n2. will be here for more than 6 months \n3. are a medical student \n4. will work in health care, or another field that brings you into close contact with children or the elderly. \nDid that help you?"
+
+  utter_faq/poe:
+  - text: "It’s a letter you may receive from IRCC if you’ve been approved for a \n1. study permit \n2. work permit \n3. super visa \nDid that help you?"
+
+  utter_faq/valid_poe:
+  - text: "There is a box titled “Permit validity” on your Port of Entry (POE) Letter. You must come to Canada prior to that date. \nIf the validity date has passed and you have not yet come to Canada, you must submit a new application. \nYou cannot extend the validity date on your POE Letter. \nYour POE Letter will be valid for the requested length of your work permit, study permit or super visa. You may be eligible to extend your work permit once you are in Canada. \nDid that help you?"
+
+  utter_faq/travel_outside_canada:
+  - text: "Yes. However, your study permit is not a travel document. It doesn’t give you the right to travel to or enter Canada. Along with your permit, you may need: \n1. a visitor visa (temporary resident visa) \n2. an Electronic Travel Authorization (eTA) \nDepending on where you’re from, you may only need your passport. Make sure you know which document you need to travel to and enter Canada. \nDid that help you?"
+
+  utter_faq/clg_univ:
+  - text: "Universities get to deal independently with academic matters regarding the curricula, methods and teaching strategies. \nUniversities have the power to set academic, admission, and graduation policies and standards, appoint staff, and undertake academic planning, meanwhile Private Universities are out-of-province institutions permitted to provide degrees after a meticulous quality assessment process by the designated governmental authorities which give the green light to certain degrees."
+
+  utter_faq/req_univ:
+  - text: "In order to get admitted in a Canadian tertiary education institution there are requirements students will have to meet, whether it is an undergraduate or a postgraduate program. \nDepending on the field of studies, programs and other relevant factors competition can vary. \nThe two essential criteria are however, high school grades/performance as well as language skills be it English (in most of the provinces) or French in francophone ones."
+
+  utter_faq/long_master:
+  - text: "Commonly, Master degrees last for a whole academic year including an obligatory internship added to the overall duration. \nSometimes a Master degree can last for two academic years, depending on the curricula and the sensitivity of the program."
+
+  utter_faq/health_ins:
+  - text: "As for international students in Canada, they must all have health insurance one way or the other."
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

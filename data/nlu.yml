@@ -1,0 +1,204 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - good afternoon
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: faq/apply_permit
+  examples: |
+    - how to apply for a study permit to canada?
+    - how to apply for a permit to study in canada?
+    - procedure to apply for a permit to study in canada
+    - procedure to apply for a study permit to canada
+    - how can i apply for a study permit to canada?
+
+
+- intent: faq/need_permit
+  examples: |
+    - Do i need a permit to study in canada?
+    - do i need a study permit to study in canada?
+    - is a study permit necessary to study in canada?
+    - is a study permit needed to study in canada?
+    - is a study permit mandatory to study in canada?
+
+- intent: faq/when_permit
+  examples: |
+    - when do i need to apply for a permit to study in canada?
+    - when do i need to aplly for study permit to study in canada?
+    - When should i apply for my study permit?
+    - which is the right time to apply for my study permit?
+
+- intent: faq/pay_permit
+  examples: |
+    - how do i pay for my student permit?
+    - how to pay for the student permit?
+    - what is the method of payment to get a student permit?
+    - options available to pay for student permit
+
+- intent: faq/money_back
+  examples: |
+    - Will I get my money back if CIC turns down my study permit application?
+    - Can i re-imburse my money if CIC turns down my study permit application?
+    - will i be refunded if CIC turns down my study permit application?
+    - will i be repaid if CIC turns down my study permit application?
+
+- intent: faq/permit_process_time
+  examples: |
+    - How long will it take to process my study permit application?
+    - what is the process time for my student permit application?
+    - how long does it take to process my study permit?
+    - time taken for study permit application processing
+
+- intent: faq/less6_permit
+  examples: |
+    - I want to study in Canada for less than 6 months. Do I need a study permit?
+    - Do i need a study permit if i will be studying in Canada for less than 6 months?
+    - If i'll study in canada for less than 6 months, do i need a study permit?
+    - is a study permit reqired if i'll study in canada for less than 6 months?
+
+- intent: faq/schoolchange_permitchange
+  examples: |
+    - I want to change my school or study program. How can I change my study permit?
+    - Do i have to change my study permit if i change my school or study program?
+    - is it necessary to change my study permit if i change my school or program?
+    - should i get a new study permit if i change my school or study program?
+
+- intent: faq/med_exam
+  examples: |
+    - Do I need a medical exam to study in Canada?
+    - Is a medical exam necessary to study in Canada?
+    - is mandatory to take up a medical exam to study in canada?
+    - To study in canada, is a medical exam required?
+
+- intent: faq/poe
+  examples: |
+    - What is a port of entry (POE) letter?
+    - What does a port of entry (POE) letter mean?
+    - explain port of entry (POE) letter
+    - details about port of entry (POE) letter
+
+- intent: faq/valid_poe
+  examples: |
+    - How long is my POE Letter valid?
+    - What is the duration of validity for my port of entry (POE) letter?
+    - The duraction of valid is my port of entry (POE) letter
+    - period of validity of port of entry (POE) letter
+
+- intent: faq/travel_outside_canada
+  examples: |
+    - As a foreign student, can I return home or travel outside Canada while studying?
+    - Can I travel outside canada or return home, if im a foreign student?
+    - Am i allowed to travel home or outside canada, if im a foreign student?
+    - returning home or travelling outside canada while studying
+
+- intent: faq/clg_univ
+  examples: |
+    - What is the main difference between Universities and Colleges in Canada?
+    - difference between Universities and Colleges in Canada
+    - how is college different from university in canada?
+    - is college different from university?
+
+- intent: faq/req_univ
+  examples: |
+    - What are the common requirements to get accepted in a Canadian University or College?
+    - requirements to get accepted in a Canadian University or College?
+    - qualifications to get accepted in a Canadian University/College?
+ 
+- intent: faq/long_master
+  examples: |
+    - How long does it take to get a Master degree in Canada?
+    - Duration to complete masters degeree in canada
+    - How many years does it take to complete a masters program in canada?
+
+- intent: faq/health_ins
+  examples: |
+    - Do I need Health insurance if I want to study in Canada?
+    - Is health insurance required to study in Canada?
+    - Is it necessary to have health insurance if i want to study in canada?
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
