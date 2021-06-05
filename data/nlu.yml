@@ -152,6 +152,174 @@ nlu:
     - Is health insurance required to study in Canada?
     - Is it necessary to have health insurance if i want to study in canada?
 
+- intent: faq/elig_can_citiz
+  examples: |
+    - What is the eligibility to become a canadian citizen?
+    - What is the criteria to become a canadadian citizen?
+    - What are the requirements to become a canadian citizen?
+    - What are the requirements to get a citizenship in canada?
+
+- intent: faq/stay_without_permit
+  examples: |
+    - Can I stay in Canada without a study permit?
+    - Will I be allowed to stay in Canada without a study permit?
+    - What happens when my study permit ends?
+    - What to do once my study permit ends?
+
+- intent: faq/temp_residance
+  examples: |
+    - How Can I Get Temporary Residence in Canada?
+    - What is the procedure to get temporary residance in Canada?
+    - How to Get a Temporary Residence in Canada?
+ 
+- intent: faq/apply_univ
+  examples: |
+    - How can I Join a particular University in a Canada?
+    - how can i get an admit to an university in canada?
+    - how to get admitted in an university in canada?
+
+- intent: faq/age_limit
+  examples: |
+    - Is there any age limit to study in Canada?
+    - What is the age requirement to study in Canada?
+    - To study in canada how old should i be?
+    - How old should I be to study in canada?
+
+- intent: faq/good_job
+  examples: |
+    - How Can I Get a Good Job in Canada as an Immigrant?
+    - How to get placed in good companies in canada?
+    - How do i get a job in Canada as an immigrant?
+    - How do i get a job in Canada as an international student?
+
+- intent: faq/immig_time
+  examples: |
+    - How Much Time Does It Take To Immigrate to Canada?
+    - What is the time taken to immigrate to canada?
+    - How long does It Take To Immigrate to Canada?
+    - time taken to immigrate to canada
+
+- intent: faq/money_immig
+  examples: |
+    - How much money do you need to immigrate to Canada?
+    - What is the cost of immigration to canada?
+    - How much does it cost to immigrate to Canada?
+    - Cost of immigration to canada
+
+- intent: faq/benefits_pr
+  examples: |
+    - What are the benefits of becoming a Canadian permanent resident?
+    - What are the advantages of becoming a Canadian permanent resident?
+    - advantages of becoming a Canadian permanent resident
+    - what are the merits of becoming a Canadian permanent resident
+
+- intent: faq/who_apply_citiz
+  examples: |
+    - Who Can Apply for Canadian Citizenship?
+    - who are eligible to apply for a citizenship in canada?
+    - Am i eligibile to apply for a citizenship in canada?
+    - What is the eligibility to Apply for Canadian Citizenship?
+
+- intent: faq/time_process_immig
+  examples: |
+    - How long are processing time for immigration applications?
+    - How long does it take to process imigration applications?
+    - What is the time taken to process the immigration application?
+    - What is the processing time for immigration applications?
+
+- intent: faq/what_work_permit
+  examples: |
+    - What is a work permit?
+    - What is meant by a work permit?
+    - What is a work permit in canada?
+
+
+- intent: faq/get_work_permit
+  examples: |
+    - What is the first step to obtaining a work permit?
+    - How to get a work permit in canada?
+    - How can I get a work permit in canada?
+    - How to obtain a work permit in Canada?
+
+- intent: faq/temp_permit_work_visa
+  examples: |
+    - Is it possible to apply for a Temporary Work Permit and a Canada Immigration Visa?
+    - Can i apply for both temporary work permit and a canadian immigrations visa?
+    - Is it allowed to apply for Temporary Work Permit and a Canada Immigration Visa?
+    - Is applying for a Temporary Work Permit and a Canada Immigration Visa possible?
+
+- intent: faq/earn_per_hr
+  examples: |
+    - How much can an international student earn per hour in Canada?
+    - How many hours can international student work in Canada?
+    - How much money can an international student earn in Canada?
+    - How much can i earn in a part-time job in Canada?
+
+- intent: faq/find_good_job
+  examples: |
+    - Is it difficult to find a good job in Canada?
+    - IS it hard to get a good job in Canada?
+    - How hard is it to get a job in Canada?
+    - IS it hard to get a well-payed job in Canada?
+
+- intent: faq/city_job
+  examples: |
+    - Which city in Canada has more job opportunities?
+    - Which province in Canada has more job opportunities?
+    - In which city can i find more job opportunities?
+
+- intent: faq/time_work_permit
+  examples: |
+    - How long is the processing time for a work permit?
+    - How long does it take to process work permit applications?
+    - What is the time taken to process the work permit application?
+    - What is the processing time for work permit applications?
+
+- intent: faq/cheap_place
+  examples: |
+    - Which is the cheapest place to live in Canada?
+    - Which is the economic place to live in Canada?
+    - Which place in Canada has low living expense?
+    - Which place in Canada has least living expense?
+    - living expense is cheapest in which place?
+
+- intent: faq/ielts_band
+  examples: |
+    - What is the minimum IELTS band score required for canada permanent residency?
+    - what is the IELTS cut-off to become a permanent resident in canada?
+    - what is the IELTS requirement to become a permanent resident in canada?
+    - how much should i score in IELTS to get a permanent resident status in canada?
+
+- intent: faq/climate
+  examples: |
+    - How tough is it to adjust to the cold climate of Canada for an Indian upon migrating?
+    - How is the climate in Canada?
+    - How cold is the climate in Canada?
+    - Is it too hard to get used to the climate in Canada?
+
+- intent: faq/fee_work_permit
+  examples: |
+    - Does the Canadian Government charge fees to obtain a work permit?
+    - how much does it cost to get a work permit in canada?
+    - What is the fee to get a work permit?
+    - how much should i pay to get a work permit in canada?
+
+- intent: faq/forex
+  examples: |
+    - How do I get a forex card in Canada?
+    - How do I obtain a forex card in Canada?
+    - What is the procedure to get a forex card in Canada?
+    - How can I get a forex card in Canada?
+
+- intent: faq/luggage
+  examples: |
+    - How much kg luggage can I carry to Canada from India on a working visa?
+    - How much luggage am i allowed to carry to canada on a work visa?
+    - What is maximum weight of the luggage that I can carry to Canada on a work visa?
+    - luggage weight restrictions on a working visa
+
+
+
 - intent: deny
   examples: |
     - no

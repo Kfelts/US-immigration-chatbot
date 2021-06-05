@@ -70,6 +70,73 @@ responses:
   utter_faq/health_ins:
   - text: "As for international students in Canada, they must all have health insurance one way or the other."
 
+  utter_faq/elig_can_citiz:
+  - text: "To be a permanent resident, you should, have lived in Canada for 3 out of the last 5 years, have filed your taxes. \nIf needed you should to pass a citizenship test and prove your language skills"
+
+  utter_faq/stay_without_permit:
+  - text: "At the end of a student’s course of study they will generally be asked to either leave Canada or to switch their status to something more appropriate. \nThe Canadian Experience Class program for Permanent Residency allows a student to smoothly transition from a student to a working Permanent Resident at the end of their studies."
+
+  utter_faq/temp_residance:
+  - text: "You can get temporary residence in Canada through work, study, or visit pathways. \nTo work in Canada temporarily, you will have to obtain a work permit, usually after receiving an offer of employment."
+
+  utter_faq/apply_univ:
+  - text: "You should apply to the universities you wish to join. \nThe process and the deadline for the applications can be found on the universities' website."
+
+  utter_faq/age_limit:
+  - text: "To study in Canada, you must be a minimum of 18 years of age. \nYou must be a Canadian or foreign youth of age between 18 to 35."
+
+  utter_faq/good_job:
+  - text: "1) Work on your skills \n2) Prepare your resume \n3) Improve your odds by applying in the right places \n4) Consider volunteer work or bridge work"
+
+  utter_faq/immig_time:
+  - text: "The time can vary from 6-12 months, but sometimes can be less or more."
+
+  utter_faq/money_immig:
+  - text: "The application fees will vary based on the type of immigration, as well as how many people are immigrating. "
+
+  utter_faq/benefits_pr:
+  - text: "1) To receive almost all social benefits that Canadian citizens are entitled to, including Canadian health care. \n2) To live, work and study in any Canadian province or territory. \n3) To eventually apply for Canadian citizenship. \n4) To protection under Canadian law and the Canadian Charter of Rights and Freedoms."
+
+  utter_faq/time_process_immig:
+  - text: "Processing times of applications for permanent residence are different depending on the category, but generally speaking application processing times are quicker than they have been in previous years."
+
+  utter_faq/what_work_permit:
+  - text: "Work visas and employment authorizations are known as work permits in Canada. \nA work permit is a document issued by officials of the Canadian Government that allows a foreign individual to work at a specific job for a specific employer."
+
+  utter_faq/get_work_permit:
+  - text: "The first step is to obtain a valid job offer from a Canadian employer. \nOpen work permits are the exception and do not require a prior job offer."
+
+  utter_faq/temp_permit_work_visa:
+  - text: "Yes. \nIndividuals may apply for a Temporary Work Permit on its own or in combination with an application for a Canada Immigration Visa."
+
+  utter_faq/earn_per_hr:
+  - text: "International students can work up to 20 hours per week during their studies and 40 hours per week during vacation. \nThey can earn approximately C$ 8 - C$ 10 per hour."
+
+  utter_faq/find_good_job:
+  - text: "Once in Canada, there are many available rewarding employment opportunities. \nEach day in Canada more than 50,000 job postings go unfilled."
+
+  utter_faq/city_job:
+  - text: "The most jobs in Canada were added to the provinces of Ontario (151, 000), Quebec (98, 000), British Columbia (70, 000) and Alberta (68, 000)."
+
+  utter_faq/cheap_place:
+  - text: "Sherbrooke, Quebec. Rent per Month 1 bedroom in City Centre – $475.00.  \nMoncton, New Brunswick. Rent per Month 1 bedroom in City Centre- $734.29.  \nThunder Bay, Ontario. Rent per Month 1 bedroom in City Centre- $925.00. ..."
+
+  utter_faq/ielts_band:
+  - text: "You need to score a minimum of 6 in your IELTS to qualify for any immigration programs to Canada. \nThat is equivalent to CLB(Canadian Language Benchmark) Band 7."
+
+  utter_faq/climate:
+  - text: "If you are coming from India, prepare to be surprised the first year by how really cold it can get. \nWind chill is something you just have to experience first hand."
+
+  utter_faq/fee_work_permit:
+  - text: "The Canadian government charges $155 CAD per work permit application. \nAdditional fees would be necessary if a Temporary Resident Visa (TRV) or Electronic Travel Authorization (eTA) is also required."
+
+  utter_faq/forex:
+  - text: "To apply for a Forex card, you need to submit an Application-cum-Declaration form along with a copy of your passport, tickets and visa."
+
+  utter_faq/luggage:
+  - text: "Generally, you are allowed to carry a laptop bag and hand luggage (max 7.5 kgs) and 2 check in bags (each 23 kg)."
+
+
   utter_happy:
   - text: "Great, carry on!"
 
