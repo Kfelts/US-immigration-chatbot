@@ -136,6 +136,41 @@ responses:
   utter_faq/luggage:
   - text: "Generally, you are allowed to carry a laptop bag and hand luggage (max 7.5 kgs) and 2 check in bags (each 23 kg)."
 
+  utter_faq/pandemic_accept:
+  - text: "Canada is still accepting new immigrants during the pandemic because, without new immigrants, Canada's population will only decrease. \nIt is undeniable that the number of new immigrants and international students has decreased due to the pandemic."
+
+  utter_faq/time_greencard:
+  - text: "There are many ways to get a green card, and the timeline for each pathway is different. \nDepending on the situation, the marriage-based green card process can last as little as 10 months or over 3 years."
+
+  utter_faq/work_relate_edu:
+  - text: "Your work experience does not have to be related to your education, as long as you are performing or have performed the duties of the occupation for which you are claiming points."
+
+  utter_faq/cost_greencard:
+  - text: "The total cost for each type of green card application can vary. \nGovernment fees for marriage-based green cards are $1,760 if the spouse seeking a green card lives in the United States and $1,200 if the spouse lives abroad, in addition to other costs, such as a fee for a required medical examination."
+
+  utter_faq/immig_asses:
+  - text: "Two Original Assessment Reports  \nElectronic Copy of the Assessment Report \nElectronic Storage of the Report for verification by Immigration, Refugees and Citizenship Canada"
+
+  utter_faq/work_during_clg:
+  - text: "as long as you were paid for the work done and the duties performed were in an occupation whose skill level is recognized by Citizenship and Immigration Canada."
+
+  utter_faq/eng_course:
+  - text: "https://www.youtube.com/watch?v=dvY4u_8kMis&feature=youtu.be"
+
+  utter_faq/lang_req_engg:
+  - text: "There are two languages that are spoken in Canada with fluency. \nThese languages are English and French. \nBoth of these are the official languages of Canada. \nAll forms of communication are done in Canada in both of these languages."
+
+  utter_faq/immig_no_joboffer:
+  - text: "providing you have a reasonable total CRS score on your Express Entry application and can meet the 67 immigration point threshold for your Canada Federal Skilled Worker Visa. \nTechnically there is no minimum CRS score required to submit an Electronics Engineer Canada Express Entry profile. \nOf course, securing a job offer (documented in the right way for immigration purposes i.e. LMT) "
+
+  utter_faq/accent_copeup:
+  - text: "There is no Canadian accent. \nThe people born in each region of the country have accents that will be different from one another and often are closer to people in nearby parts of the US. North Dakota and Saskatchewan, for example, will be virtually the same. \nMany areas have immigrants, especially Toronto, Vancouver and Montreal, and they are from all over the world, each with their own accents. \nIf are an immigrant in a smaller town, you may stand out for a number of reasons, including your accent. \nThere’s no easy way to adjust your way of speaking in that case. \nIf you live in the area for a long time and listen to people, and imitate them, eventually you will speak more like them or it’s possible to take training to change your voice. "
+
+  utter_faq/studies_copeup:
+  - text: "Canada plans to double the number of international students by 2022. \nThis means that we will be actively recruiting the best and brightest to study in the country over the next few years. \nCanada is multicultural nation and a very safe place to live and study, and they value education highly. \nThe Canadian universities are home to students from hundreds of different countries. \nThe best reason to take a chance on Canada is the excellent post-secondary education system."
+
+  utter_faq/discrimination:
+  - text: "We find that perceived discrimination is more relevant to general trust and trust in specific others than to political trust. \nWe also find that perceived discrimination explains more of the trust gap between racialized immigrants and the native-born than the gap between non-racialized immigrants and the native-born. \nThe results illustrate that what appears to be a simple relationship is far more complex when attempting to explain group differences."
 
   utter_happy:
   - text: "Great, carry on!"

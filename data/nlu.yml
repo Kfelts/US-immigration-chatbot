@@ -89,8 +89,10 @@ nlu:
   examples: |
     - I want to study in Canada for less than 6 months. Do I need a study permit?
     - Do i need a study permit if i will be studying in Canada for less than 6 months?
+    - Do i need a study visa if i will be studying in Canada for less than 6 months?
     - If i'll study in canada for less than 6 months, do i need a study permit?
     - is a study permit reqired if i'll study in canada for less than 6 months?
+    - is a study visa reqired if i'll study in canada for less than 6 months?
 
 - intent: faq/schoolchange_permitchange
   examples: |
@@ -317,6 +319,98 @@ nlu:
     - How much luggage am i allowed to carry to canada on a work visa?
     - What is maximum weight of the luggage that I can carry to Canada on a work visa?
     - luggage weight restrictions on a working visa
+
+- intent: faq/pandemic_accept
+  examples: |
+    - IS CANADA ACCPETIONG NEW IMMIGRANTS EVEN DURING THE PANDEMIC?
+    - Are people allowed to enter canada during the pandemic?
+    - IS CANADA ACCPETIONG foreign students EVEN DURING THE PANDEMIC?
+    - Are the canadian borders open for new immigrants during the ongoing pandemic?
+
+- intent: faq/time_greencard
+  examples: |
+    - How long does it take to get a green card?
+    - how much time does it take to get a green card?
+    - How long does it take to receive a green card?
+    - How long does it take to become a green card holder in canada?
+
+- intent: faq/work_relate_edu
+  examples: |
+    - Does my work experience have to be related to my education in order to be recognized?
+    - Should my work and education be on the same field to be recognized?
+    - Should my work and education be on the same field to be get a job?
+    - Does my work experience have to be related to my education in order to get a good job?
+
+- intent: faq/cost_greencard
+  examples: |
+    - How much does it cost to get a green card?
+    - How much should i pay to get a green card?
+    - What is the cost of getting a green card?
+    - What is the fee to get a green card?
+
+- intent: faq/immig_asses
+  examples: |
+    - What is included in the Canadian Immigration Assessment Package?
+    - What are the documents in Canadian Immigration Assessment Package?
+    - What are the documents included in the Canadian Immigration Assessment Package?
+    - List of documents included in the Canadian Immigration Assessment Package
+
+- intent: faq/work_during_clg
+  examples: |
+    - Is credit given for experience gained during post-secondary studies?
+    - Is credit given for experience gained during university education?
+    - is it advisable to gain work experience during my university courses?
+    - Will my work experience during post-secondary studies be recognized?
+
+- intent: faq/eng_course
+  examples: |
+    - How do the English courses in Canada work?
+    - How good is the english course in canada?
+    - Is it good to take up english courses in canada?
+    - Are the english courses in Canada useful?
+
+- intent: faq/lang_req_engg
+  examples: |
+    - WHAT ARE THE REQUIREMENTS FOR ENGINEERS WITH REGARDS TO LANGUAGE?
+    - Are there any language requirements in canada?
+    - Are there any language requirements for engineers in canada?
+    - Should i learn a new language if i move to canada?
+
+- intent: faq/immig_no_joboffer
+  examples: |
+    - Can I immigrate to Canada as an Electronics Engineer without a job offer?
+    - Will i be allowed to enter Canada as an Electronics Engineer without a job offer?
+    - Will i be allowed to immigrate to Canada as an Electronics Engineer without a job offer?
+    - Will i be able to enter Canada as an Electronics Engineer without a job offer?
+
+- intent: faq/immig_elec_engg
+  examples: |
+    - How to get registered to Immigrate to Canada as an Electronics Engineer?
+    - How to Immigrate to Canada as an Electronics Engineer?
+    - How can i get registered to go to Canada as an Electronics Engineer?
+    - What should i do to Immigrate to Canada as an Electronics Engineer?
+
+- intent: faq/accent_copeup
+  examples: |
+    - How easy or difficult will it be to cope up with the accent ?
+    - How to get used to the canadian accent?
+    - Should i learn to speak in Canadian accent?
+    - Is it easy or difficult to understand the canadian accent?
+
+- intent: faq/studies_copeup
+  examples: |
+    - How easy or difficult will it be to cope up with studies ?
+    - Is it difficult to get good grades in canada education system?
+    - How difficult or easy it is to get good marks in canadian universities?
+    - Will it be hard to cope with studies ?
+
+- intent: faq/discrimination
+  examples: |
+    - What kind of discriminations will an immigrant face and how to adjust ?
+    - Will immigrants face any discrimination in Canada?
+    - What are the discriminations faced my immigrants in Canada?
+    - How to adjust with the discriminations faced in Canada?
+
 
 
 
