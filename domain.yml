@@ -171,6 +171,90 @@ responses:
 
   utter_faq/discrimination:
   - text: "We find that perceived discrimination is more relevant to general trust and trust in specific others than to political trust. \nWe also find that perceived discrimination explains more of the trust gap between racialized immigrants and the native-born than the gap between non-racialized immigrants and the native-born. \nThe results illustrate that what appears to be a simple relationship is far more complex when attempting to explain group differences."
+   
+  utter_faq/healthcare:
+  - text: "If you qualify for Canada’s public healthcare, your taxes go towards the healthcare system.\n If you are covered by Canada’s public healthcare, you receive basic cover, and generally are not required to pay for certain medical services."
+
+  utter_faq/quebec_industries:
+  - text: "Aerospace; Food processing (canned and baked goods, dairy etc); \n Scientific services (neuroscience, pharmacology, oncology etc); and \n Technological industries (communication; IT, multimedia; micro electrics)"
+
+  utter_faq/police_clear_certif:
+  - text: "The law requires such a certificate from every country in which the applicant lived for over six months and it is a requirement which must be fulfilled in order to get a permanent resident or work permit visa."
+  
+  utter_faq/eligibility:
+  - text: "Check the current Canadian immigration regulations"
+  
+  utter_faq/permanent_residence_visa:
+  - text: "Every application is different and processing times largely depend on the type of visa being applied for"
+
+  utter_faq/application_rejection:
+  - text: "Yes. Many applicants are unaware how strictly the immigration regulations are enforced and are unnecessarily refused or delayed due to technical errors on their application or by submitting the wrong supporting documentation."
+
+  utter_faq/permanent_residence:
+  - text: "The successful end result of the Immigration process is the issuance of an “immigrant visa” or “confirmation of permanent residence document”."
+  
+  utter_faq/best_province:
+  - text: "Ontario"
+  
+  utter_faq/permit_expiry:
+  - text: "You must apply to restore your status within 90 days of losing it.\n If you don't, you must leave Canada."
+  
+  utter_faq/car_owning:
+  - text: "In order to be able to own a car in Canada you need three things, each contingent on the preceding ones:\n A driver's licence – probably Canadian.\n A valid car insurance policy"
+
+  utter_faq/express_entry_profile:
+  - text: "No. You may only have one profile at a time. "
+  
+  utter_faq/express_entry_points:
+  - text: "You must have at least 67 points in order to qualify for Express Entry"
+  
+  utter_faq/canadian_fam_sponsor:
+  - text: "Foreign family members of Canadian citizens and permanent residents may be eligible to be sponsored for permanent residence in Canada."
+  
+  utter_faq/driving_license:
+  - text: "The two-step licensing process takes at least 20 months to complete."
+  
+  utter_faq/working_in_canada:
+  - text: "Working in Canada after graduation is a dream goal for lots of international students.\n For many, the industry skills, knowledge and experience on offer in Canada are unavailable in their home nations"
+  
+  utter_faq/buying_a_house:
+  - text: "If you have a down payment of at least 35% of the purchase price, you may still qualify for a mortgage without the confirmation of employment that is typically required"
+  
+  utter_faq/affordable_universities:
+  - text: "Most affordable universities in Canada \n Memorial University of Newfoundland – tuition fees: 2,150 – 11,460 CAD/year. \n University of Regina – tuition fees: 1,715 – 20,050 CAD/year.\n Royal Roads University – tuition fees: 3,750 – 27,600 CAD/year.\n University of Saskatchewan – tuition fees: 4,110 – 24,000 CAD/year."
+  
+  utter_faq/scholarship:
+  - text: "You will need to submit an essay to apply and the scholarship is open to all nationalities.\n Trudeau Scholarships and Fellowships – The Trudeau Foundation offers a number of scholarships, fellowships and mentorships to international students at doctoral level undertaking study in Canada at selected institutions."
+
+  utter_faq/applicaton_refusal:
+  - text: "If we refuse your application to come to Canada, you can apply again at any time, unless your decision letter says you can't."
+
+  utter_faq/permanent_resident:
+  - text: "Within any five (5) year period, a permanent resident must be: physically present in Canada for at least 730 days (two (2) years) in that five (5) year period"
+
+  utter_faq/perm_resident_benefits:
+  - text: "Canadian permanent residents/landed immigrants and citizens enjoy all of the same rights and privileges (i.e. free health care, free elementary and secondary education, etc.)"
+
+  utter_faq/working_alongside_studies:
+  - text: "You may be eligible to work in Canada while studying, if your study permit includes a condition that says you can work on or off campus.\n You must also meet all the other requirements.\n You can only start working in Canada when you start your study program.\n You can't work before your studies begin."
+
+  utter_faq/university_admission:
+  - text: "To increase your chances of being accepted, you should submit your application 8 to 12 months before courses start.\n You will receive an official letter of acceptance from the university one or two months after applications have closed.\n The decision time may vary depending on the university."
+
+  utter_faq/student_visa:
+  - text: "You’ll have to apply for your student visa application online using the CIC official website.\n You can apply up to three months before your intended date of travel to Canada.\n Remember, your application date is the date when your application fee is paid."
+
+  utter_faq/immigration_interview_duration:
+  - text: "The interview itself will last about half an hour where the officials will ask the questions and you will have to answer them.\n But you may have to wait at the office until you are called upon!"
+
+  utter_faq/service_agreement:
+  - text: "After 30 minutes of a free consultation with one of the licensed immigration consultants, the applicant signs a service agreement, receives a list of programs (based on his/her background and study plan) to choose a desired one.\n Afterward, depending on the learning institution it takes up to 45 days to get admission from the school (College, University), and finally, within 20 days receives the student visa." 
+
+  utter_faq/min_IELTS:
+  - text: "Minimum IELTS (General) overall score 6 with a breakdown of Listening: 6, Writing: 6, Reading: 6 and Speaking: 6"
+
+  utter_faq/why_IELTS:
+  - text: "IELTS score is a necessary score when aspiring to study in Canada.\n It is proof of English Language Proficiency. A student needs to take an IELTS test and  attach the acceptable score along with the other documents."
 
   utter_happy:
   - text: "Great, carry on!"
@@ -184,3 +268,9 @@ responses:
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
+
+
+
+  
+  utter_faq/:
+  - text: 

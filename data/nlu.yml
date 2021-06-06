@@ -411,8 +411,201 @@ nlu:
     - What are the discriminations faced my immigrants in Canada?
     - How to adjust with the discriminations faced in Canada?
 
+- intent: faq/healthcare
+  examples: |
+    - Is Healthcare In Canada Free?
+    - Does Canada offer free healthcare services?
+    - Can I get free healthcare in Canada?
+    - How much do I need to spend on healthcare services in Canada?
 
+- intent: faq/quebec_industries
+  examples: |
+    - What Are The Main Industries In Quebec?
+    - What kind of Industries can I find in Quebec?
+    - Can you explain about the industries in Quebec?
+    - Does Quebec house any main industries?
 
+- intent: faq/police_clear_certif
+  examples: |
+    - What are the requirements regarding a Police Clearance Certificate?
+    - How can I get a police clearance certificate ?
+    - Is Police Clearance Certificate required to get a work permit visa?
+    - Do I need a Police Clearance Certificate to be a permanent resident of Canada?
+
+- intent: faq/eligibility
+  examples: |
+    - How do I find out if I am eligible to apply?
+    - How can I know if I am eligible to apply for immigration?
+    - What are the prevailing regulations for Canadian Immigration?
+    - Who is eligible to apply?
+
+- intent: faq/permanent_residence_visa
+  examples: |
+    - How long does it take to get a permanent residence visa to immigrate to Canada?
+    - How long does permanent residence visa processing take place?
+    - What is the procesing time for a permanent residence visa?
+    - Is it easy to acquire a permanent residence visa?
+
+- intent: faq/application_rejection
+  examples: |
+    - Can the immigration authorities refuse my application?
+    - Is it possible for my application to be rejected?
+    - On what basis do authorities reject immigration applications?
+    - What are the reasons for rejection of an immigration application?
+
+ - intent: faq/permanent_residence
+  examples: |
+    - What is permanent residence in Canada?
+    - When does a immigration process become successful?
+    - What is the end result of an immigration process?
+    - When do I become a permanent resident of Canada?
+
+- intent: faq/best_province
+  examples: |
+    - Which is the best province for immigrants in Canada?
+    - Which is considered to be the best province for immigrants in Canada?
+    - Which province in Canada is suggested for immigrants?
+    - Which Canadian province is best suited for immigrants?
+
+- intent: faq/permit_expiry
+  examples: |
+    - How long can I stay in Canada after study permit expires?
+    - What is the time given to apply for study permit restoration?
+    - What happens if I don't restore my study permit after its expiration?
+    - What should I do after my study permit expires?
+
+- intent: faq/car_owning
+  examples: |
+    - What is required to buy a car in Canada?
+    - What are the requirements for buying a car in Canada?
+    - How do I own a car in Canada?
+    - What is the procedure to own a car in Canada?
+
+- intent: faq/express_entry_profile
+  examples: |
+    - Can I have 2 express entry profiles?
+    - Is it possible to own 2 express entry profiles?
+    - Is it okay if I have 2 express entry profiles?
+    - Can I own 2 express entry profiles at the same time?
+
+- intent: faq/express_entry_points
+  examples: |
+    - How many points do you need to immigrate to Canada Express entry?
+    - What is the minimum number of points required to qualify for express entry?
+    - What is the qualification for express entry?
+    - How to qualify for express entry?
+
+- intent: faq/canadian_fam_sponsor
+  examples: |
+    - Can a Canadian citizen sponsor a non family member to Canada?
+    - Is it possible for Canadian citizens to sponsor a non family member to Canada?
+    - Who can sponsor immigrants for getting permanent residence in Canada?
+    - Can a immigrant avail sponsorship from a non family member?
+
+- intent: faq/driving_license
+  examples: |
+    - How long does it take to get driving license in Canada?
+    - What is the processing time for a driving license application?
+    - How long do I have to wait to get a driving license?
+    - When can I get a driving license?
+
+- intent: faq/working_in_canada
+  examples: |
+    - Can graduates work in Canada?
+    - Can I work in Canada after graduation?
+    - What are the pros of working in Canada?
+    - Can immigrants work in Canada after graduating?
+
+- intent: faq/buying_a_house
+  examples: |
+    - Can new immigrants buy a house in Canada?
+    - How to qualify for a mortage in Canada?
+    - How do I own a property in Canada?
+    - Is confirmation of employment required to buy a house in Canada?
+
+- intent: faq/affordable_universities
+  examples: |
+    - Which university is the cheapest in Canada?
+    - What are some of the cheapest universities in Canada?
+    - Name some of the most affordable universities in Canada?
+    - How much do Canadian universities charge per year?
+
+- intent: faq/scholarship
+  examples: |
+    - How can I get full scholarship in Canada?
+    - How do I avail scholarship at Canadian universities?
+    - What do I do to get a scholarship in canda?
+    - Does Canada offer any scholarship? If so, how do I apply for it?
+
+- intent: faq/applicaton_refusal
+  examples: |
+    - Can the immigration authorities refuse my application?
+    - What should I do if my application is refused?
+    - If my application is refused, can I apply for it once again?
+    - What happens if my application is refused?
+
+- intent: faq/permanent_resident
+  examples: |
+    - Once I am a permanent resident of Canada, do I have to stay in Canada?
+    - How do I qualify as a permanent resident of Canada?
+    - How long must I stay in Canada to become a permanent resident?
+    - After becoming a permanent resident how many years should I stay in Canada?
+
+- intent: faq/perm_resident_benefits
+  examples: |
+    - What benefits do I have if I am a permanent resident of Canada?
+    - What are the pros of becoming a permanent resident of Canada?
+    - What do I get from being a permanent resident of Canada?
+    - Do immigrants after becoming a permanent resident enjoy same rights as Canadian citizens?
+
+- intent: faq/working_alongside_studies
+  examples: |
+    - Can students work alongside their studies in Canada?
+    - What is the eligibility to work while studying in Canada?
+    - When can I start working in Canada?
+    - Can I work in Canada alongside my studies?
+
+- intent: faq/university_admission
+  examples: |
+    - How long will it take for the Canadian admission process?
+    - How do I increase the chances of my application being accepted? 
+    - When should I apply for an university?
+    - How long would it to receive a response from the University?
+
+- intent: faq/student_visa
+  examples: |
+    - When can I apply for my Student visa?
+    - How and when should I apply for student visa?
+    - How is my application date calculated?
+    - When should I apply for a Canadian student visa?
+
+- intent: faq/immigration_interview_duration
+  examples: |
+    - How long does an immigration interview take?
+    - What is the duration of the immigration interview?
+    - When can I know the results of the interview?
+    - How long would the interview last?
+
+- intent: faq/service_agreement
+  examples: |
+    - What services are included to study programs?
+    - How can I get consultation about the service agreement?
+    - How long would it take to get admission after signing the service agreement?
+    - How long would it take to get the student visa after signing the service agreement?
+
+- intent: faq/min_IELTS
+  examples: |
+    - What is the minimum IELTS breakdown required?
+    - What is minimum IELTS score required to qualify? 
+    - How much IELTS score should I secure to be qualified?
+    - What is the overall IELTS score required to be qualified?
+
+- intent: faq/why_IELTS
+  examples: |
+    - Do I need to mention my IELTS score in my immigration Visa application?
+    - Why is my IELTS score necessary?
+    - Should I attach my IELTS score while applying for immigration visa?
+    - Is my IELTS score necessary?
 
 - intent: deny
   examples: |
@@ -464,3 +657,4 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
