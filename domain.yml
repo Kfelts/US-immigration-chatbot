@@ -343,6 +343,519 @@ responses:
   utter_faq/why_IELTS:
   - text: "IELTS score is a necessary score when aspiring to study in Canada.\n It is proof of English Language Proficiency. A student needs to take an IELTS test and  attach the acceptable score along with the other documents."
 
+  utter_faq/PGWP_duration:
+  - text: "No. Based on a 2019 update from IRCC, international students must apply for the PGWP 180 days after the school issues their final marks.\n A study permit must have been valid at some point during the 180 days."
+
+  utter_faq/max_age:
+  - text: "This issue probably comes first between the inquiries about Canada immigration questions. It depends on the program and marital status.\n a) For a single person with desirable IELTS results, the maximum age is 37;\n b) For a married person, it depends on her/his spouse’s level of education and knowledge of English/French language."
+
+  utter_faq/payment_methods_and_fee:
+  - text: "Governmental fee: varies depending on the immigration program starting from approximately 950 CA$ for adults, and 150 CA$ for kids under 22 years per person. \n Service fee: It depends on the program, your background, number of family members, and applicant’s current circumstances. \n Payment methods: PayPal or direct deposit to the company’s bank account."
+
+  utter_faq/service_agreement:
+  - text: "Service agreement between both sides starts with the process of visa application/immigration/study programs/sponsorship including email correspondence, preparation of the portfolio of required documents."
+
+  utter_faq/provincial_nominee_application_when_where:
+  - text: "Before submitting an application for a Canada Immigration (Permanent Resident) Visa, the Provincial Nominee Program application is submitted to the appropriate provincial government office."
+
+  utter_faq/provincial_nomination_uses:
+  - text: "A Provincial Nomination provides another way of qualifying for a Canada Immigration (Permanent Resident) Visa apart from the Federal Skilled Worker category of Canadian immigration."
+
+  utter_faq/if_provincial_nomination_mandatory:
+  - text: "You can obtain a Canada Immigration (Permanent Resident) Visa without a provincial nomination. "
+
+  utter_faq/time_period_after_perm_residence:
+  - text: "Immigration, Refugees and Citizenship Canada aims to process the majority of complete applications received within six months from the date of submission."
+
+  utter_faq/pnp_and_expressentry:
+  - text: "Yes, there is a connection between the PNPs and Express Entry. Once a candidate updates his or her Express Entry profile to show that he or she has an enhanced provincial nomination certificate, he or she will be given enough additional points (600) to be invited to apply at a subsequent draw of candidates from the pool.\n Candidates must be in the pool before applying to a province or territory for an enhanced provincial nomination certificate or submitting an Expression of Interest to a province or territory under one of the enhanced PNP streams."
+
+  utter_faq/pnp_provinces:
+  - text: "The following provinces participate in the Provincial Nominee Program: \nAlberta \n British Columbia \n Manitoba \n New Brunswick \n Newfoundland And Labrador \n Northwest Territories \n Nova Scotia \n Ontario \n Prince Edward Island \n Saskatchewan \n Yukon"
+
+  utter_faq/provincial_nominee_program:
+  - text: "The Provincial Nominee Programs allow Canada’s provinces and territories to select individuals who indicate an interest in settling in a particular province.\n It also includes individuals who will be able to contribute to that province/territory’s economic development.\n Not all, but most of the provinces and territories of Canada participate in the Provincial Nominee Program."
+
+  utter_faq/immigrating_without_express_entry:
+  - text: "No. Express Entry is designed to facilitate the processing of economic immigrants for Canadian permanent residence.\n However, there are a number of other ways of moving to Canada.\n Except for a portion of the Provincial Nominee Programs that are processed through Express Entry, other PNP candidates will be able to apply to these programs directly if they are eligible under the requirements, which are based on local and regional labour market needs.\n Most PNP streams require the candidate to secure a valid job offer before immigrating to Canada, but there are some exceptions.\n Successful candidates will land in Canada as permanent residents.\n Candidates for certain employment opportunities in Canada may arrive as temporary foreign workers requiring the processing of a Labour Market Impact Assessment.\n There are several instances where an employer may be exempt from the requirement to secure an LMIA.\n Coming to Canada to study is a popular option for those who wish to continue their education at one of Canada’s many renowned colleges and universities."
+
+  utter_faq/invitation_to_apply_for_perm_residence:
+  - text: "This topic is in the list of Canada immigration questions of many potential candidates.\n Upon receiving an invitation to apply for permanent residence from a Canadian province or territory, candidates should have the intention to reside in that particular province or territory.\n The Provincial Nominee Programs are set up to address local and regional labour market needs.\n However, once a candidate has landed in Canada, s/he will have the right to freedom of movement within Canada, as well as the right to live and work anywhere in Canada for any employer."
+
+  utter_faq/profile_duration_in_ee_pool:
+  - text: "Each created profile remains in the Express Entry pool for a period of 12 months or until an Invitation to Apply.\n If after 12 months a candidate wishes to remain in the pool, s/he may create a fresh profile."
+
+  utter_faq/documents_after_perm_residence:
+  - text: "The documents include those pertaining to civil status such as marriage certificates, birth certificates, language test results, an Educational Credential Assessment (ECA; if applicable), work reference letters, security background checks, and other documents."
+
+  utter_faq/immigration_without_job_offer:
+  - text: "Not necessarily, though for many candidates, obtaining a valid job offer from a Canadian employer significantly increases their chances of being invited to apply for Canadian permanent residence."
+
+  utter_faq/employers:
+  - text: "Canadian employers have a direct role in Canadian immigration.\n This role now under Express Entry is more direct and greater than previously.\n Candidates increase their chances of being invited to apply by promoting themselves directly to employers through the Canada Job Bank. "
+
+  utter_faq/ee_program_occupation_eligibility:
+  - text: "There are no eligible occupation lists for any of the programs.\n It must be noted, however, that in order to be eligible for any of the programs under Express Entry, the candidate needs to have work experience in an occupation that has a National Occupation Classification (NOC) code of skill type 0, A or B."
+
+  utter_faq/comprehensive_ranking_system:
+  - text: "The Comprehensive Ranking System is the government of Canada’s internal mechanism for ranking candidates based on their human capital, determined by factors such as age, level of education and language ability.\n This helps to enable Immigration, Refugees and Citizenship Canada (IRCC, formerly known as CIC) to decide which candidates may be issued invitations to apply for permanent residence.\n There are up to 600 points available under the system for a candidate’s core human capital and skills transferability factors. "
+
+  utter_faq/express_entry:
+  - text: "Express Entry is an electronic management application system for immigration to Canada.\n Canada immigration questions include lots of inquiries about the Express Entry system. It is not an immigration program and it facilitates the selection and processing of Canada’s economic immigration programs: \nthe Federal Skilled Worker Class (formerly the Federal Skilled Worker Program),\n the Federal Skilled Trades Class (formerly the Federal Skilled Trades Program),\n the Canadian Experience Class, and \n a portion of the Provincial Nominee Programs. \nApplicants make an “expression of interest” (EOI) in immigrating to Canada and, if they are eligible for at least one of the aforementioned programs, they then enter the Express Entry pool. The federal government and provincial governments, as well as Canadian employers, are then able to select candidates from this pool who will then receive an Invitation To Apply (ITA) for immigration to Canada under one of the programs."
+
+  utter_faq/pgwp_edu_qualifications:
+  - text: "A candidate must also meet all the eligibility criteria for the PGWP program. In addition, a candidate must hold a diploma or degree from one of the following institutions to be eligible for a PGWP:\n a public post-secondary institution, such as a college, trade/technical school, university or CEGEP (in Quebec); \n a private post-secondary institution that operates under the same rules and regulations as public institutions; \n a private secondary or post-secondary institution (in Quebec) offering qualifying programs of 900 hours or longer leading to a diplôme d’études professionnelles (DEP, in English Diploma of Vocational Studies, or DVS) or an attestation de spécialisation professionnelle(Attestation of Professional Specialisation, ASP); or \n a Canadian private institution authorized to grant degrees if the student is enrolled in one of the programs of study leading to a degree, as authorized by the province."
+
+  utter_faq/pgwp_fee:
+  - text: "The current total fee for a PGWP is $255 CAD.\n This is comprised of two parts: $155 CAD is the work permit fee, and $100 CAD for the Open Work Permit Holder fee."
+
+  utter_faq/pgwp_submission_method:
+  - text: "Candidates can submit their application online or by mail to IRCC."
+
+  utter_faq/pgwp_application_timelimit:
+  - text: "In order to apply for a PGWP, a candidate must have completed, passed the program of study, and received a notification of eligibility to receive his or her degree diploma or certificate.\n This can be proved with a transcript or an official letter.\n Additionally, the application must be submitted within 180 days of receiving written confirmation that the candidate has completed his or her studies."
+
+  utter_faq/pgwp_eligibility:
+  - text: "To be eligible for a Post-Graduation Work Permit, an international student must:\n be 18 or older; \nhave continuously studied full-time in Canada in a study program at least eight months long; \n have a document from your school (transcript, official letter, certificate, etc.) that confirms you completed and passed all your program requirements; \n have graduated from a: \n public post-secondary school, such as a college, trade/technical school or university, or CEGEP in Quebec or \n private post-secondary school that operates under the same rules as public schools (currently applies only to certain private post-secondary institutions in Quebec) or \n private secondary or post-secondary school (in Quebec) that offers qualifying programs of 900 hours or longer, leading to a diplôme d’études professionnelles (DEP) or an attestation de spécialisation professionnelle (ASP) or \n Canadian private school that can legally award degrees under provincial law (for example, Bachelors, Masters or Doctorate degree) but only if you are enrolled in a study programs leading to a degree as authorized by the province. \n apply for a work permit within 180 days of when it was confirmed that you completed your program; and \n have held a valid study permit at some point during the 180 days before applying. \n Special Notice: Canada has made it possible for international students to begin their program at a Canadian school online in fall 2020, and remain eligible for a Post-Graduation Work Permit (PGWP) after completing their Canadian studies."
+
+  utter_faq/pgwp:
+  - text: "A PGWP is an open work permit available to international graduates from eligible Canadian educational institutions.\n It allows the holder to work for any employer anywhere in Canada."
+
+  utter_faq/pei_application:
+  - text: "In order to apply for a Canadian study permit, prospective international students must first obtain a letter of acceptance from a Designated Learning Institution (DLI).\n As each institution may have different admission requirements and application processes, interested applicants may contact the desired institution(s) individually."
+
+  utter_faq/pei_fee:
+  - text: "Tuition for international students in PEI varies widely between colleges and universities, and between different study programs. Language school and graduate school tuition may differ significantly.\n At the University of Prince Edward Island, international students may expect to pay from $10,000 to $65,000 per year, depending on the program. Tuition fees may be updated or changed annually. \n At Holland College, international students may expect to pay from $6,701 to $22,040 per year, depending on the program. Tuition fees may be updated or changed annually. \n At Collège de l'Île (formerly known as Collège Acadie Î.P-É.), international students may expect to pay from $6,000 to $7,750 per year, depending on the program. Tuition fees may be updated or changed annually."
+
+  utter_faq/pei_healthcare:
+  - text: "International students studying in Canada are required to purchase health insurance.\n Often, this is organized through the post-secondary institution.\n University of Prince Edward Island, Holland College, and Collège de l'Île (formerly known as Collège Acadie Î.P-É.) all offer student healthcare plans."
+
+  utter_faq/pei_stem:
+  - text: "STEM is an acronym for Science, Technology, Engineering, and Mathematics.\n While careers in STEM fields are popular, there is no specific program entitled “STEM” in a PEI college or university.\n Prospective students are encouraged to research programs in their particular area of interest.\n Use the School Search tool to research programs in these fields."
+
+  utter_faq/pei_employment_prospects:
+  - text: "Employment options for young people are encouraging in PEI, as the province is trying to attract more young workers to the region.\n The Healthcare and Social Assistance sector is the major employer in the area, and employment in the Information, Culture and Recreation sector and the Agriculture sector is growing."
+
+  utter_faq/pei_working:
+  - text: "Graduates from a DLI in PEI may apply for the Post-Graduation Work Permit after graduating from an eligible study program."
+
+  utter_faq/pei_climate:
+  - text: "PEI is a small island, and its climate is heavily influenced by the surrounding sea.\n Weather can change quickly from one day to the next.\n Temperatures are milder than other parts of Canada, reaching an average of -5 degrees Celsius in winter, and 20 degrees Celsius in summer.\n Summer and fall remain balmy as the surrounding ocean keeps the frost at bay until winter."
+
+  utter_faq/pei_positives:
+  - text: "PEI has some of the lowest international tuition rates in Canada.\n For individuals looking for a sense of community and a small-town environment, PEI could be the perfect choice.\n Rolling hills, woods, sand beaches, ocean coves and the famous red soil have justifiably given Prince Edward Island a reputation as a province of outstanding natural beauty.\n The University of Prince Edward Island adheres to the Pan-Canadian Protocol on the Transferability of University Credits, which states that all course work completed by transfer students during the first two years of university study in Canada (including the final year of studies in Quebec leading to a diploma of college studies and the university transfer courses offered by community colleges and university colleges in British Columbia and Alberta) will be recognized and fully credited for the purposes of granting a degree."
+
+  utter_faq/pei_cities:
+  - text: "Charlottetown, the province’s capital city, is home to almost 35,000 people.\n The University of Prince Edward Island and some of Holland College’s campuses are located in Charlottetown. \n The province’s second city is Summerside, the main municipality on the west side of the island.\n Four of Holland College’s campuses are located here."
+
+  utter_faq/canadian_passport:
+  - text: "Canadian passports are only available to Canadian citizens. However it only takes about three or four years to become a citizen after becoming a Permanent Resident.\n Canadian passports are very useful and can be used for all sorts of purposes \n Travel \n Identification \n Proof of citizenship \n Canadian passports provide the bearer with all of the protections of the Canadian government when abroad."
+
+  utter_faq/work_permit:
+  - text: "Work permits are necessary for all temporary residents of Canada who wish to work while in the country. \n Permanent Residents and Citizens need not obtain work permits because they are allowed to work through their status. \n Students, if they wish to work off of campus must get work permits."
+
+  utter_faq/canadian_citizen:
+  - text: "The first thing that an immigrant has to do before becoming a citizen of Canada is to become a Permanent Resident.\n This immigration status is absolutely necessary to become a citizen. \n Also, it is a good idea to become familiar with either the English or French language and learn about the Canadian government.\n Other than that, it’s a matter of waiting until you have lived for three whole years in Canada."
+
+  utter_faq/permanent_residency:
+  - text: "Permanent Residency is an immigration status in Canada that allows an immigrant to live and work in the country for as long as they choose to. \n Permanent Residents can also travel freely throughout the provinces, study without a permit and be let back into Canada from abroad on the strength of their PR Cards."
+
+  utter_faq/canadian_us_immigration:
+  - text: "Canadian permanent residence does not confer any particular US immigration benefits. Canadian citizens may travel to the US without a visa, and may seek employment in one year increments under the North American Free Trade Agreement (NAFTA). NAFTA provides a list of eligible classes of employment most of which are executive, managerial, professional or scientific in nature.\n The US does not offer Canadians a fast track to permanent residence or employment outside of the NAFTA list.\n Generally, one may apply for Canadian citizenship if one has maintained permanent residence in Canada three of the four years preceding the application."
+
+  utter_faq/perm_resident_moving_to_us:
+  - text: "Citizens from the list of countries referenced in the Country List “A”, the following writing (Removal of U.S. Entry Visa Requirements for Certain Permanent Residents of Canada) are required to file an application with a U.S. consulate along with a non-refundable $100 filing fee. First time applicants with the exception of children under 16, adults over 60 and persons with diplomatic status, will likely be required to attend a personal interview.\n The visa once issued, will be valid for a period of five to ten years.\n Landed immigrants in Canada holding passports from Country List “B” of the writing do not require visas to travel to the United States, because their countries of origin have reciprocal visa-waiver agreements with the U.S."
+
+  utter_faq/lang_barrier:
+  - text: "Language barriers are a serious challenge faced by many refugees.\n They often create misunderstandings and can make refugees feel isolated."
+
+  utter_faq/ee_max_applicants:
+  - text: "No, there is no cap whatsoever on the number of aspirants who could file their applications into the pool of Express Entry."
+
+  utter_faq/job_data_bank:
+  - text: "Canada job Data Bank offers an opportunity to recruiters in Canada and foreign based skilled, to develop links with one another in a superior manner.\n After the application is successfully submitted in the express entry pool, a personal reference number is issued.\n The candidate should lodge personal resume in the "
+
+  utter_faq/arriving_without_pr_permit:
+  - text: "No, the applicants for Express Entry cannot typically arrive in the nation, for job purposes, until and unless he is armed with his permanent resident permit.\n In some specific situations, applicants will already be in the nation with an impermanent work visa."
+
+  utter_faq/application_info_verification:
+  - text: "The Administration of Canada has a zero tolerance for such cases even while it takes the scheme reliability incredibly seriously.\n The CIC expects the aspirants to be honest in their Application for Permanent Residence and for self-stated profile for Express Entry.\n At some point in processing, an immigration official will appraise & authenticate all information. "
+
+  utter_faq/engineers_canada:
+  - text: "Engineers Canada does not offer membership to individuals or groups.\n Our only members are the 12 provincial and territorial engineering regulatory bodies that regulate the engineering profession in Canada and licence the country’s professional engineers."
+
+  utter_faq/licensed_engineer:
+  - text: "No. Individuals with an engineering degree are known as engineering graduates, and a licensed engineer must take responsibility for their engineering work."
+
+  utter_faq/practising_engineering:
+  - text: "Engineering graduates can practise engineering only if a licensed engineer assumes responsibility for the work.No one can sign off on engineering work without a licence."
+
+  utter_faq/engineering_license_validity:
+  - text: "Licences are valid only in the province or territory where they are issued."
+
+  utter_faq/canada_vs_india:
+  - text: "Cost of living versus quality of life.The cost of living in India is considerably lower than in Canada. ...\n Money isn't everything, though, and despite the higher cost of living, Canada ranks #2 amongst the countries with the highest quality of life."
+
+  utter_faq/canada_salary:
+  - text: "As of January 2020, the average Canadian salary in 2020 was $1,050.59 per week for employees across the country "
+
+  utter_faq/ee_profile_charge:
+  - text: "There is no such charge whatsoever to put forward a profile for Express Entry.\n However, to be able to file the application in the pool, the candidate must provide key information related to educational credentials, IELTS tests etc."
+
+  utter_faq/eep_and_immig_conditions:
+  - text: "Express Entry is just a method for the CIC to administer and run the submission of the economic immigration petitions made online.\n The Federal points selection Criteria whereby minimum 67 points out of a maximum of 100 points is required continues to be applicable."
+
+  utter_faq/lawyer_consultation:
+  - text: "There is no requirement that immigration applications be filed with the assistance of a lawyer.\n However, all immigration applications are highly technical.\n Also, requirements and procedures change constantly.\n Without experienced representation, there is a risk that an application is refused or significantly delayed."
+
+  utter_faq/canadian_law_council:
+  - text: "Canaidan Law Councils represent clients in every part of the world.\n Most of our clients live far away from Canada.\n Electronic communication using methods such as Skype or email make communication and application processing as easy as if you were in our office."
+
+  utter_faq/perm_residence_categories:
+  - text: "There are three broad categories or routes to obtaining permanent residence: the economic class, the family class (which requires sponsorship by a Canadian or permanent resident relative), and the refugee category.\n There is also a discretionary route to permanent residence through humanitarian and compassionate applications.\n Contact us to find out whether you qualify in one of these categories."
+
+  utter_faq/immig_family_sponsor:
+  - text: "Only certain family members can be sponsored for Canadian permanent residence: spouses, common law and conjugal partners, parents and grandparents, and dependent children.\n Siblings cannot be sponsored for permanent residence directly, but if they are under 22 years of age then can accompany sponsored parents."
+
+  utter_faq/how_to_license_as_prof_engr:
+  - text: "The licensing of engineers is the responsibility of the provincial and territorial regulatory bodies.\n You will need to contact the association of the province where you intend to work for its specific requirements."
+
+  utter_faq/invitation_basis:
+  - text: "We send invitations to apply to the candidates with the highest scores in the pool.\n If we invite you to apply, you’ll have 90 days to submit your application for permanent residence."
+
+  utter_faq/immig_ee:
+  - text: "Application process and eligibility, including work experience, education and language skills for each program"
+
+  utter_faq/canada_french:
+  - text: "French is one of Canada’s two official languages.\n People speak French across Canada—not only in Quebec."
+
+  utter_faq/quality_of_life_canada:
+  - text: "If you come to Canada as a skilled immigrant, you and your family will benefit from world-class education and high quality of life."
+
+  utter_faq/canadian_government:
+  - text: "Organizational structure, democracy, elections, intergovernmental and international relations."
+
+  utter_faq/covid19_canada:
+  - text: "The Government of Canada’s plan to finish the fight against COVID-19 and ensure a robust economic recovery that brings all Canadians along"
+
+  utter_faq/working_for_canadian_govt:
+  - text: "The Canadian government has positions located within the country as well as overseas opportunities, such as jobs in foreign embassies.\n Alternately, if you a non-Canadian citizen, then you can acquire a work permit that allows you to work in Canada."
+
+  utter_faq/without_work_permit:
+  - text: "You do not need a work permit if you meet these three requirements:\n You're the spouse or child of a foreign representative.\n You're accredited (with a counterfoil in your passport) by Global Affairs Canada"
+
+  utter_faq/work_permit_for_canadians:
+  - text: " Canadian citizens and permanent residents of Canada don't require a work permit or visa to work in Canada, regardless of their country of residence.\n Foreign nationals looking to work in or visit Canada may need to get a work permit, a visitor visa or both to enter Canada."
+
+  utter_faq/primary_edu:
+  - text: "In India, public education is free and compulsory for all children aged 6 to 14.\n Similarly, compulsory education starts at age 5 in Canada and continues through age 16 or 18 (depending on provincial regulations)."
+
+  utter_faq/sin:
+  - text: "Get an application form online or from your local Service Canada Centre.\nFill it out.\nCollect the documents you need.\nTake your application and documents to your local Service Canada Centre"
+
+  utter_faq/canadian_passport_where:
+  - text: "Citizens can apply for passports at many different locations.\n One can apply for one through the mail to the Foreign Ministry.\nAnother option is to use one of the many Service Canada offices located throughout the country."
+
+  utter_faq/ircc_appointment_rescheduling:
+  - text: "Yes. If you are not available on the date and time of your appointment, write us a letter of explanation.\n Send this letter to the IRCC office that scheduled your original appointment."
+
+  utter_faq/ircc_abrev:
+  - text: "Immigration, Refugees and Citizenship Canada Government department"
+
+  utter_faq/application_withdrawal:
+  - text: "If at any point in the application an error is made you can withdraw the application and start a new one by clicking "withdraw" on the erroneous application, and click "new" to begin a new one."
+
+  utter_faq/after_creating_ircc_user_profile:
+  - text: "Once you have created a user profile within the IRCC online portal, you can access the online application and begin completing each section of the application at your own pace."
+
+  utter_faq/visa_age_limit:
+  - text: "The most extreme age breaking point to apply for Residency is 46 as after that you won’t get any points.\n Additionally all of you realize that Permanent Residency is isolated into point framework."
+
+  utter_faq/dual_citizenship:
+  - text: "they can retain both passports."
+
+  utter_faq/sponsoring_relatives:
+  - text: "If you sponsor a relative to come to Canada as a permanent resident, you must:\nsupport your relative financially when they arrive\nbe able to meet basic needs for yourself and your relative, such as:\nfood\nshelter\nclothing\nmake sure your relative doesn’t need social assistance\nDocumen"
+
+  utter_faq/is_ielts_mandatory:
+  - text: "Yes"
+
+  utter_faq/visa_eligibility:
+  - text: "You must meet some basic requirements to get a visitor visa. You must:\nhave a valid travel document, like a passport\nbe in good health\nhave no criminal or immigration-related convictions\nconvince an immigration officer that you have ties—such as a job, home, financial assets or family—that will take you back to your home country\nconvince an immigration officer that you will leave Canada at the end of your visit\nhave enough money for your stay\nThe amount of money you will need depends on how long you will stay and if you will stay in a hotel, or with friends or relatives."
+
+  utter_faq/2021_application_processing:
+  - text: "If you submitted your complete study permit application (including your biometrics and immigration medical examination results) by May 15, 2021, you should get a decision by August 6, 2021, in time to attend the fall semester.\nWe’ll process complete applications submitted after May 15, 2021, as quickly as possible—but we can’t guarantee that you’ll get a final decision before the fall semester begins.\nSome applications take longer to process and may not be finalized by August 6, 2021, such as those that are incomplete require the officer to request more information from you"
+
+  utter_faq/settling_in_canada:
+  - text: "https://www.canadavisa.com/canadian-settlement.html#gs.36gnx1"
+
+  utter_faq/work_in_canada:
+  - text: "There are two main ways to work in Canada, one being temporary and the other a direct path to permanent residence.\n The 4 stages to getting a temporary work permit are:\n Stage 1: Employer applies for Labour Market Impact Assessment\n Stage 2: Employer extends Temporary Job Offer\n Stage 3: Foreign Worker applies for Work Permit\n Stage 4: Work Permit is issued To work and live in Canada permanently, you will apply under the Express Entry Program as a skilled worker. The programs included are the Federal Skilled Worker Program, the Federal Skilled Trades Program, and the Canadian Experience Class. Provinces and territories can also recruit from this pool of applicants to fill labour needs in their local communities."
+
+  utter_faq/temp_residence:
+  - text: "You can get temporary residence in Canada through work, study, or visit pathways.\n To work in Canada temporarily, you will have to obtain a work permit, usually after receiving an offer of employment.\n To study in Canada, you will first apply to a designated learning institute. Once you are accepted, you can then apply for a study permit.\n To visit Canada for tourism, study, work, or temporary residence, you will apply for a visitor visa in the form of a Temporary Resident Visa."
+
+  utter_faq/immig_without_job_offer:
+  - text: "You do not need a job offer to immigrate to Canada.\n If you would like to work in Canada without a job offer, one way to do so is through a Federal Skilled Worker Program like Express Entry, the investor category, Canadian Experience Class, and sometimes Provincial Nominee Programs."
+
+  utter_faq/working_before_license:
+  - text: "Yes, but only if a licensed engineer takes responsibility for your work."
+
+  utter_faq/prof_eng_exams:
+  - text: "Your provincial or territorial engineering regulatory body will tell you what examinations you have to write to become a member.\n They will assign you exams based on your academic background and work experience.\n Exams are offered in most provinces and territories in English only (French in Quebec and French or English in New Brunswick)."
+
+  utter_faq/foreign_eng_license:
+  - text: "In Canada, engineering licensureis the responsibility and legal requirement of the provincial and territorial engineering regulatory bodies.\nContact the provincial or territorial engineering regulatory body where you intend to work for specific licensing requirements.\nVisit the International Mobility page of this website and the EngineerHere for more information."
+
+  utter_faq/temp_eng_license:
+  - text: "Yes. Several of Canada’s provincial and territorial engineering regulatory bodies have temporary licenses for foreign engineers working in Canada on a short-term basis.\nContact the provincial or territorial engineering regulatory body in the province or territory where you want to be licensed to find out more."
+
+  utter_faq/degree_transfer:
+  - text: "Engineers Canada`s EngineerHere website has information about how to obtain a professional engineering licence, immigration and about working in Canada.\n Visit the International Engineering Graduates page of this website for more information."
+
+  utter_faq/mech_engineer_immig:
+  - text: "If you’re looking to Immigrate to Canada as a Mechanical Engineer you’re in luck! Mechanical Engineers are in demand right across Canada and you may be able to secure a Canadian Permanent Residency Visa either with or without a job offer.\nNo doubt you will have read online that having a job offer to move to Canada is a prerequisite to accessing the Express Entry process but as a Mechanical Engineer, you also have other options to secure your Canada Visa from the start."
+
+  utter_faq/mech_engineer_skills:
+  - text: "Confer with clients and other members of the engineering team and conduct research to determine project requirements. \nPlan and design major civil projects such as buildings, roads, bridges, dams, water and waste management systems and structural steel fabrications\nDevelop construction specifications and procedures"
+
+  utter_faq/mech_engineer_qualifications:
+  - text: "A bachelor’s degree in civil engineering or in a related engineering discipline is required. \nA master’s degree or doctorate in a related engineering discipline may be required.\nLicensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports and to practise as a Professional Engineer (P.Eng.)."
+
+  utter_faq/mech_engineer:
+  - text: "The first stage in your Canadian immigration process is to calculate your Canada Immigration points for Express Entry using the Canadian Comprehensive Ranking System."
+
+  utter_faq/mech_engineer_immig_reg:
+  - text: "As part of your immigration process, your dedicated Mechanical Engineer Canada account manager will arrange for your Professional Qualification equivalency process so there’s no need to worry about how to move to Canada; we’ll have you covered from the moment you get the ball rolling."
+
+  utter_faq/mech_engineer_immig_without_job_offer:
+  - text: "The answer is a resounding yes, providing you have a reasonable total CRS score on your Express Entry application and can meet the 67 immigration point threshold for your Canada Federal Skilled Worker Visa."
+
+  utter_faq/mech_engineer_job_titles:
+  - text: "https://emigratecanada.com/immigrate-to-canada-as-a-mechaical-engineer/Job Titles to Immigrate to Canada as a Mechanical Engineer/"
+
+  utter_faq/mech_engineer_jobs:
+  - text: "https://canadianvisa.org/blog/jobs/where-to-find-the-best-mechanical-engineering-jobs-in-canada"
+
+  utter_faq/mech_eng_demand:
+  - text: "For Mechanical engineers, over the period 2019-2028, new job openings (arising from expansion demand and replacement demand) are expected to total 11,300 , while 13,200 new job seekers (arising from school leavers, immigration and mobility) are expected to be available to fill them"
+
+  utter_faq/immigrant_govt_job:
+  - text: "It depends on your skills. \nThe government typically has lower pay but better benefits than private companies."
+
+  utter_faq/new_immigrants_taxes:
+  - text: "It applies only for the first tax year that you are a new resident of Canada for income tax purposes. \nAfter your first tax year in Canada, you are no longer considered a newcomer for income tax purposes."
+
+  utter_faq/immigration_cost:
+  - text: "For one family Member they need $12,960"
+
+  utter_faq/visitor_work_permit:
+  - text: "Yes. Due to COVID-19, we're temporarily allowing visitors to apply online for a work permit from inside Canada."
+
+  utter_faq/marrying:
+  - text: "While a successful sponsorship case will allow this, becoming a Canadian citizen or permanent resident of Canada does not automatically happen when you marry a Canadian citizen."
+
+  utter_faq/immigration_age:
+  - text: "There is no specific age limit requirement for any Canadian immigration program."
+
+  utter_faq/working_eligibility:
+  - text: "you have a valid study or work permit;\nyour spouse, common-law partner or parents have a valid study or work permit;\nyou're eligible for a post-graduation work permit and your study permit is still valid;"
+
+  utter_faq/pr_waiting:
+  - text: "You can stay in Canada while waiting for your permanent residence as long as you maintain legal status."
+
+  utter_faq/wp_proof_of_funds:
+  - text: "The system currently asks all applicants to provide a proof of funds document.\n If you don't need to provide proof of funds, you must upload a letter explaining either that you have been invited to apply under the Canadian Experience Class"
+
+  utter_faq/biometrics_processing_time:
+  - text: "Once we receive your biometrics, we'll be able to process your study permit application. \nWe process most Student Direct Stream applications within 20 calendar days after we receive your biometrics, if you meet the eligibility."
+
+  utter_faq/cash_limit:
+  - text: "When you move to Canada, you can bring cash with you.\n There is no limit to how much cash you can bring. \nHowever, if you bring more than $10,000 CAD in cash, you will have to declare it when you enter Canada."
+
+  utter_faq/overseas_canadian_bank_account:
+  - text: "Opening a bank account in Canada from overseas is possible, however, there are some additional requirements."
+
+  utter_faq/immig_health_insurance:
+  - text: "In Canada in order to get universal healthcare you must be a Canadian citizen or a permanent resident of Canada  "
+
+  utter_faq/pvt_health_insurance:
+  - text: "On average, healthcare premiums for a family in Canada are around C$157 per month (according to research by Monster)."
+
+  utter_faq/canadian_embassy:
+  - text: "Registration enables the Government of Canada to contact and assist you in case of an emergency abroad or a personal emergency at home. \ntravel.gc.ca/register."
+
+  utter_faq/leaving_or_entering_canada:
+  - text: "Canada will know when and where someone enters the country, and when and where they leave the country by land and air."
+
+  utter_faq/staying_overseas:
+  - text: "Canadians are allowed to visit the US for up to six months (182 days) per calendar year.\n Nationals of other countries are allowed only 90 days. "
+
+  utter_faq/money_factors:
+  - text: "The cost of immigrating to Canada is dependent on many different factors.\n First, the application fees will vary based on the type of immigration, as well as how many people are immigrating.\n You will have to prove you have sufficient funds to support yourself in Canada, along with any family members who will be accompanying you.\n If you choose to hire an immigration lawyer, you will pay additional fees for their services, however they can help ensure your immigration process goes as smoothly as possible.\n Different lawyers and law firms will have different fees."
+
+  utter_faq/applying_pr:
+  - text: "You can apply for permanent residence (PR) in Canada in quite a few different ways.\n First, you can apply directly for permanent residence through family sponsorship or Express Entry.\n If you are already working in Canada on a work permit, you may be eligible to apply for a Bridging Work Permit, which will extend the time you can live and work in Canada so that you may apply for permanent residence without having to leave the country.\n If you are in Canada under humanitarian and compassionate grounds and have established a life there, you may also be able to apply.\n In each case, the application will be unique."
+
+  utter_faq/canadian_citizenship:
+  - text: "To apply for Canadian citizenship, you must provide proof that you know how how to speak and write in English and/or French (Canada’s official languages), be a permanent resident, have lived in Canada as a permanent resident for at least 1,095 days out of the 5 years prior to applying, meet all tax requirements, and pass the citizenship test.\n If one of your parents was a Canadian citizen when you were born, you may already be a Canadian citizen"
+
+  utter_faq/immig_qualification:
+  - text: "If you complete and submit an online assessment, we will evaluate at no charge"
+
+  utter_faq/english_knowledge:
+  - text: "Only Self-employed program and educational programs including English language courses in Designated Learning Institutions might be an option."
+
+  utter_faq/ee_undergraduate:
+  - text: "Yes. One of the main requirements for being eligible for the programs under the Express Entry system is having an undergraduate degree."
+
+  utter_faq/citizenship_rules:
+  - text: "A simple answer is no. The rules of Canadian citizenship have recently changed, causing a significant amount of confusion"
+
+  utter_faq/pension_after_moving_out_of_canada:
+  - text: "If you decide to leave Canada to live elsewhere in the world your eligibility to receive the OAS pension is based on having lived in Canada for at least 20 years."
+
+  utter_faq/nontaxable_foreign_income:
+  - text: " If you earn more than 10% outside Canada, you won't be eligible to earn any tax free income up to a total amount of $12,069 (in 2019)."
+
+  utter_faq/tax_for_abroad_canadians:
+  - text: "Canadians who live or work abroad or who travel a lot may still have to pay Canadian and provincial or territorial income taxes"
+
+  utter_faq/disabled_people_immig:
+  - text: "Yes, people with disabilities are eligible to apply.\n However, they might or might not have an issue, depending on the type of disability."
+
+  utter_faq/immig_rep:
+  - text: "In order to participate in Express Entry, candidates are not required to hire an immigration representative. Immigration, Refugees and Citizenship Canada has determined, however, that authorized immigration representatives may assist candidates during all stages of the Express Entry immigration process.\n CANADAPT’s professional team can help candidates immigrate to Canada by:\nLessening the risk of misrepresentation and the associated penalties, helping to prepare an accurate application\nPromoting the candidate to Canadian employers to increases his or her chances of landing a job.\n Also, it improves their chances of being invited to apply for permanent residency; and\nReviewing all supporting documents, submitting an application within the time frame set by the government of Canada, and tracking it all the way while communicating with the government on the candidate’s behalf."
+
+  utter_faq/pr_govt_job:
+  - text: "PR holders living in Canada can apply to the program for the government job, but preference will be given to veterans and Canadian citizens (in that order) who meet the job requirements"
+
+  utter_faq/immig_easy_way:
+  - text: "If the only way you can come to Canada is with a job offer and a work permit, the easiest way to come to Canada is to get a visitor visa"
+
+  utter_faq/perm_resid_duration:
+  - text: "To keep your permanent resident status, you must have been in Canada for at least 730 days during the last five years.\n These 730 days don’t need to be continuous.\n Some of your time abroad may count towards the 730 days."
+
+  utter_faq/what_perm_resident_confers:
+  - text: "Pursuant to the provisions of Canada’s constitutional laws, the holder of a Canadian permanent resident visa and his/her accompanying dependants are permitted to permanently reside in Canada and earn a livelihood in any one of the ten provinces or three territories within Canada.\n In addition, individuals with Canadian permanent residence may attend primary and secondary education institutions in the various provincially administered public school systems, tuition exempt.\n Permanent residents also qualify for provincially administered universal health care coverage."
+
+  utter_faq/fed_skilled_worker_applications:
+  - text: "On November 28, 2008, the Minister of Citizenship, Immigration and Multiculturalism, provided assurances that new federal skilled worker applications should receive a selection decision within 6-12 months from submission.\n This contrasted substantially with applications submitted under the old regime where, depending upon the time of year, the immigration program and the office in question and other factors, the processing time for an application for permanent residence filed under the economic class can vary from between 12 months and 40 months.\n This is the time generally needed to demonstrate compliance under one of the applicable categories;\n a clean bill of health for the applicant and accompanying dependants;\n sufficient assets to successfully establish the family in Canada;\n and a confirmation of no criminal inadmissibility’s for the applicant and the overage accompanying dependants.\n (The immigration offices in New Delhi, Islamabad, Beijing, Manila and Accra historically attract the most applications and therefore have the longest processing times)."
+
+  utter_faq/perm_resid_fam_members:
+  - text: "The application for permanent residence generally includes the applicant, spouse or common-law partner or conjugal partner 16 years of age or older and any unmarried children under the age of 19 years.\n Children over the age of 19 may in prescribed circumstances, be included as accompanying family members."
+
+  utter_faq/pr_applications_processing:
+  - text: "Applications for Canadian permanent residence under the Skilled Workers Class are initially filed inside Canada through the Centralized Intake Office – Case Processing Centre in Sydney, Nova Scotia.\n Once approved, the application will undergo further processing with an appropriate immigration office outside of Canada that serves the country where the applicant is legally residing or the immigration office that serves the applicant’s country of nationality."
+
+  utter_faq/perm_resident_processing_fee:
+  - text: "Applications for permanent residence must include the appropriate non-refundable processing fees for applicants and their accompanying dependants.\n For applicants applying under the skilled worker program the application fee is currently set at $550 CAD for each applicant as well as each family member of the principle applicant who is 22 years of age or older.\n A fee of $150 shall apply to each family member under the age of 22 years.\n As well, a Right of Permanent Residence Fee of $490 CAD is levied, prior to visa issuance, for each person who is at least 22 years of age applying for permanent residence.\nProcessing fees must be filed with the application.\n Right of Permanent Residence fees are submitted upon request by the visa office, prior to visa issuance.\n Applicants are encouraged to verify with local missions for applicable immigration office specific payment procedures."
+
+  utter_faq/visiting_canada:
+  - text: "The applicant need not visit Canada as part of the immigration process.\n However in some cases, familiarity with the Canadian landscape and particularly with the area of intended destination can impact positively on the assessment.\n Applicants applying under the Investor or the Entrepreneur class are encouraged to undertake exploratory visits to Canada and participate in information sessions sponsored by the provinces.\n For Entrepreneur Class applicants, such efforts may relate to an indication of an applicant’s ability to meet the universal terms and conditions of admission."
+
+  utter_faq/immig_selection_interview_members:
+  - text: "The applicant and spouse (where applicable), will generally be required to travel to the processing immigration office and attend a selection interview.\n In many cases, the requirement for a spouse to attend the selection interview can be waived.\nAs well, certain posts require that accompanying dependant children over the age of 22 years attend the immigration selection interview."
+
+  utter_faq/immig_interview:
+  - text: "Generally, an interview would be conducted to ensure the accuracy of the information contained in the documentation submitted;\n to clarify issues relating to the applicant’s background;\n to confirm an applicant possesses the necessary means to settle in Canada;\n to verify the absence of security inadmissibility’s;\n to ensure the applicant is intending to enter the Canadian labour market;\n to verify whether there are sufficient grounds to exercise positive discretion; etc.\n The interview cannot be conducted to verify an applicant’s language abilities.\n Under the Business Class (Investor, Entrepreneur, Self-Employed), applicants are interviewed to ensure conformance with the statutory definitions and to review the general parameters of the business proposal in Canada.\nApplicants are advised to bring to the interview, all original documentation supporting the application; certificates of non-criminal conviction; evidence of settlement funds."
+
+  utter_faq/interview_waive:
+  - text: "Certain factors may justify the waiving of a selection interview. This is a highly discretionary aspect of the Regulations and is largely a function of the immigration office in question, the habitual residence of the applicant and the documentation in support of the applicant’s qualifications."
+
+  utter_faq/application_documents:
+  - text: "All Federal Skilled Workers applications must contain in prescribed format, the name, birth date, and address, nationality and immigration status of the applicant and all family members of the applicant and the class of visa being requested.\n The application must also contain the four-digit codes from the National Occupational Classification that corresponds to each of the occupations engaged in by the applicant and that constitutes the skilled worker’s work experience.\n Supporting documentation includes copies of passports, birth and marriage certificates, proof of language proficiency, evidence of past work experience, official evaluation of education credentials, evidence of sufficient settlement funds, photos and the required processing fees."
+
+  utter_faq/differ_job:
+  - text: "There is no requirement for an applicant to become employed in Canada in an occupation that is consistent with past employment experience."
+
+  utter_faq/govt_job_offer:
+  - text: "No. Under current rules, an applicant can qualify for admission under the Federal Skilled Workers program without an approved offer of employment on the basis of possessing at least one year of applicable full-time experience in one of 50 major high demand occupations. \nHowever, applicants who do not meet the above requirement must obtain a suitable offer of employment which must be approved by Employment and Social Development Canada (“ESDC”). This is referred to as “arranged employment”.\n This will also provide a prospective applicant with an additional 15 units of assessment.\nThe current selection rules favour applicants with government approved job offers in Canada."
+
+  utter_faq/occupational_licensing:
+  - text: "There are a number of occupations in Canada requiring registration and/or licensing, as a condition of employment, a process that varies from province to province.\n However, the employment requirements including occupational licensing is not a requirement that must be met as a condition of immigration approval."
+
+  utter_faq/req_funds:
+  - text: "Under the skilled worker class, applicants must provide evidence of sufficient funds for the family to travel and settle in Canada as measured against the current annual Low Income Cut-Off (LICO) published by Statistics Canada.\nA sum of approximately $22,000 would satisfy the requirements for a family comprising of the applicant, spouse and two children. Such evidence may be furnished immediately prior to visa issuance.\nExempt from this financial requirement would be applicants who have received an approved job offer in Canada."
+
+  utter_faq/canadian_relative:
+  - text: "The principal applicant receives five points for adaptability if they or their accompanying spouse or common-law partner, have a close relative in Canada such as a parent, grandparent, child, grandchild, spouse, common-law partner, sister, brother, uncle, aunt, nephew or niece who is a Canadian citizen or permanent resident and is physically residing in Canada."
+
+  utter_faq/perm_resid_requisites:
+  - text: "Current legislation provides that permanent resident status is maintained if a person is physically resident in Canada for at least 730 days (2 years) within any period of 5 years, or if other circumstances are met.\nIf not physically present in Canada, permanent resident status can be maintained while abroad where the Canadian resident is abroad with a Canadian citizen spouse or parent; with a Canadian employer, or with a Canadian permanent resident who works for a Canadian employer.\nIt is sufficient for a permanent resident to demonstrate at examination, if they have been a permanent resident for less than five years, that they can potentially meet the 730-day residency obligation in respect of the five-year period immediately after their arrival in Canada.\n An officer is not permitted to exclude the possibility that an applicant who has resided abroad for three years, may still be able to comply with the residency obligation during the remaining two years of the five-year period.\nCanadian residency rules are among the most flexible.\n In effect one who is recently admitted as a permanent resident can theoretically leave Canada for up to three years after activating their resident visa to pursue their existing obligations while preserving Canadian permanent residence throughout this initial period."
+
+  utter_faq/perm_resid_and_temp_visa:
+  - text: "Traditionally, visa officers have viewed concurrent applications for permanent residence and temporary entry as being incompatible with each other.\nCurrent law attempts to clarify the issue and provides that immigration officers must assess the present intention of the applicant when a person applies to visit Canada and verify the question of whether the applicant has the ability and the intention to enter Canada for a temporary purpose and thereafter leave Canada at the expiry of the visitor status, regardless if the long-term goal is to secure permanent residence in Canada. Visitor’s (work, study or visit) with pending immigrant applications may be subject to the issue of Dual Intent if they cannot demonstrate that they will leave Canada by the end of the period authorized for their stay.\nUnder current immigration policy, applicants are encouraged to become familiar with Canada’s landscape, which will augment the applicant’s likelihood of successfully integrating into Canadian society.\n Applicants are discouraged however from “waiting” inside Canada during the permanent residence application process.\n Applicants who wish to procure temporary entry into Canada and who have a pending application for permanent residence will be required to demonstrate sufficient ties to their current country of residence prior to the issuing of a temporary visitor’s visa by the Canadian visa office."
+
+  utter_faq/temp_work_permit_and_perm_resid:
+  - text: "The issues raised above should be reiterated here as well. In addition, applicants who wish to procure a temporary work permit must generally initiate the process with the assistance of the prospective employer who must file an application with the Canada Employment authorities inside Canada. It is only after the employment authorities have confirmed that the hiring in question will have a neutral effect on the local labour market that the application would be approved and forwarded to the appropriate visa office outside Canada for immigration assessment and processing. This is known as obtaining a positive “labour market opinion”.\n As the average processing time for permanent residence applications currently exceeds 12 months at most immigration offices, it may be advantageous in many cases, for the applicant to apply for a temporary work permit either prior to or during the processing of an application for permanent residence."
+
+  utter_faq/canadian_labour_market:
+  - text: "The Canadian immigration authorities are continuously revising programs and policies to reflect Canada’s changing labour market requirements.\n The current Regulations provide the Minister of Citizenship and Immigration with authority to set and amend the pass mark at any time during the process with no lock-in protection for an application under assessment.\n Qualified applicants who manifest a serious interest in obtaining permanent residence would be encouraged to proceed with the filing of the application(s) and the non refundable government filing fees in a timely fashion so as to initiate and conclude the processing at the earliest possible time.\nAs well, since the processing of a permanent resident visa application generally takes many months to complete, Canadian employers are often willing to consider sponsoring the candidacy of qualified foreign applicants under a temporary work visa.\n Applicants may therefore consider canvassing the Canadian labour market while simultaneously processing an application for permanent residence."
+
+  utter_faq/job_prospects:
+  - text: "Employers in the Canadian Health Care, Engineering, Financial Services sectors, Construction and Skilled Trades, Machining and Heavy Equipment Operators, Automotive and Agriculture are recruiting qualified individuals who are lawfully permitted to take up employment in Canada on a temporary or permanent basis.\n Many of these firms are currently advertising available positions in Canada’s leading newspapers, trade journals and or through the Internet."
+
+  utter_faq/canadian_tax_basis:
+  - text: "The Canadian Government imposes income tax on the basis of residency rather than citizenship.\n It is therefore possible to become a Canadian citizen and a non-resident for tax purposes.\n After becoming a permanent resident and prior to attaining citizenship, an individual would be required to pay Canadian taxes on worldwide income.\nThe assets of a newly arriving immigrant are not taxed under Canadian law."
+
+  utter_faq/quebec_study_application:
+  - text: "Go to Foreign students – Obtaining the necessary authorizations to study in Québec for an explanation of the steps you must follow to obtain authorizations from Québec and the Canadian government to come study in Québec."
+
+  utter_faq/quebec_study:
+  - text: "Go to Foreign students for a typical procedure that explains all of the steps you must follow to come study in Québec.\nImportant! You must be admitted into a Québec educational institution before submitting applications for authorization to study in Québec (Québec certificate of acceptance for studies, study permit and entry visa)."
+
+  utter_faq/quebec_temp_work:
+  - text: "Go to Temporary workers – Obtaining the authorizations to work temporarily in Québec for the steps you must follow to obtain authorization from Québec and the Canadian government to come work temporarily in Québec.\n You will find that it is your future employer’s responsibility to initiate most of the steps."
+
+  utter_faq/quebec_temp_work_conditions:
+  - text: "Go to Temporary workers – Obtaining the authorizations to work temporarily in Québec for information on the conditions for working temporarily in Québec.\n Note that your future employer must complete most of the steps."
+
+  utter_faq/prof_orders:
+  - text: "Go to Working in Québec – Finding out about regulated professions or trades for detailed information on professions regulated by professional orders and useful links to visit."
+
+  utter_faq/quebec_jobs:
+  - text: "Go to Working in Québec for basic information on job search techniques and useful links to visit."
+
+  utter_faq/list_of_areas_of_training:
+  - text: "The List of areas of training is intended to identify candidates who have earned diplomas or degrees in areas with good medium-term job prospects.\n It is compiled with particular regard to Québec job market requirements."
+
+  utter_faq/french_test:
+  - text: "No. You must submit the results of a standardized test recognized by the Ministère.\n Consult the page French and English language knowledge for more information on the tests recognized by the Ministère."
+
+  utter_faq/english_french_test:
+  - text: "All candidates who submit an application under the Regular Skilled Worker Program can obtain points for their knowledge of written French and English.\n To do so, they must submit the results of a standardized test."
+
+  utter_faq/max_applications_refund:
+  - text: "Your application will be received and processed by the Ministère if you received an acknowledgement of receipt confirming that your file was opened and the required fees processed.\n If your application was received after the maximum number was attained, based on the application requirements, it will be returned to you and the fees will not be processed."
+
+  utter_faq/quebec_worker_immig_prerequisites:
+  - text: "The Permanent workers section provides information on the prerequisites for immigrating to Québec as well as a typical procedure that explains all of the steps you must follow to to carry out your immigration plan."
+
+  utter_faq/quebec_immig_work:
+  - text: "The Permanent workers section provides a typical procedure that explains all of the steps you must follow to immigrate."
+
+  utter_faq/selection_admission_diff:
+  - text: "For the answer to this question, go to Permanent workers – The difference between the selection and admission of workers."
+
+  utter_faq/qualifying_chances:
+  - text: "In addition, go to the Permanent workers section for a typical procedure that presents information as well as the steps you must follow to successfully immigrate."
+
+  utter_faq/eTA:
+  - text: "Citizens of a visa-exempt country, such as the UK, only need to obtain an eTA if traveling to Canada by air.\n If you intend to arrive over land, your admissibility to Canada will be determined at a Canadian Port of Entry, such as an official border crossing.\n In this case, you do not need to apply for and obtain an eTA before departure.\nThe Visiting Canada Tool is a handy resource for people around the world who are unsure of the steps they need to take before visiting Canada."
+
+  utter_faq/multiple_ee_profiles_with_diff_noc:
+  - text: "According to Immigration, Refugees and Citizenship Canada (IRCC), individuals may only have one Express Entry profile at a time, as set out in Canada’s immigration law."
+
+  utter_faq/:
+  - text: "Under Canada’s immigration regulations, a permanent resident who wishes to sponsor a spouse or common-law partner for permanent residence must reside in Canada throughout the application process.\n Canadian citizens, on the other hand, may reside inside or outside Canada during the process of sponsoring a spouse or common-law partner for immigration to Canada.\n However, in such a case the couple must have the intention to return to Canada once the application is finalised.\nA permanent resident of Canada who submits an application to sponsor a spouse or common-law partner, and then chooses to live outside Canada, may jeopardise the success of the application.\n If the permanent resident is eligible for citizenship and has applied for that status, it may be worth it to wait until citizenship is granted before submitting the sponsorship application."
+
+  utter_faq/quebec_immig:
+  - text: "Pursuant to the provisions of the Quebec/Canada Accord, the Immigration and Refugee Protection Act and the Quebec Act Respecting the Selection of Foreign Nationals, the Quebec Government is currently the only provincial government in Canada to have concluded a comprehensive agreement for the purpose of facilitating the formulation, coordination and implementation of immigration policies and programs with respect to the admission of foreign nationals to the province.\nHowever, the Canadian Citizenship & Immigration authorities maintain exclusive jurisdiction in the areas of visa issuance, and medical and criminal inadmissibility.\nApplicants, who are intent on settling in Quebec after acquiring Canadian permanent residence, are encouraged to file their applications for a Quebec Certificate of Selection with the appropriate Quebec Delegation outside Canada.\n Once this undertaking is completed and approved, the appropriate Canadian visa office would review the appropriate applications for Canadian permanent residence.\nApplicants destined to Quebec or who attempt landing in Quebec without prior approval from the Quebec authorities will likely experience difficulties at a Port Of Entry.\n This is a sensitive issue and must be addressed by experienced counsel."
+
+  utter_faq/pnp_province:
+  - text: "All of the provinces have concluded agreements with the Canadian government under the Provincial Nominee program, which provide for the selection of a very limited number of foreign nationals destined to one of those provinces each year.\n Most provincial programs require employer sponsorship to support a nomination.\n Owing to the general requirement of employer sponsorship as well as the high volume of applications that are currently awaiting processing under most provincial program outside Quebec, applicants applying under a Provincial Nominee program are strongly encouraged to secure approved job offers, regardless of the point total received following a self-assessment, in order to increase their chances for approval under a provincial nominee program."
+
   utter_happy:
   - text: "Great, carry on!"
 

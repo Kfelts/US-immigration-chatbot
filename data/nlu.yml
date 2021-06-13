@@ -798,6 +798,1226 @@ nlu:
     - Should I attach my IELTS score while applying for immigration visa?
     - Is my IELTS score necessary?
 
+- intent: faq/PGWP_duration
+    - Does a graduate with a PGWP have to remain in Canada?
+    - When are international students supposed to apply for the PGWP?
+    - Can I stay in Canada after graduation?
+    - What is the time period given to apply for PGWP?
+
+- intent: faq/max_age
+  examples: |
+    - What is the maximum (latest) age for a successful application? 
+    - How old a person must be to apply?
+    - What is the age requirement to apply for immigration?
+    - Till what age can a person apply?
+
+- intent: faq/payment_methods_and_fee
+  examples: |
+    - What are the fees payment methods?
+    - What is the fee structure of the immigration method?
+    - How can I pay the application fee?
+    - How much does the application fee cost?
+
+- intent: faq/service_agreement
+  examples: |
+    - What is the general process after signing the service agreement with Canadapt Consulting? 
+    - How does the service agreement process work?
+    - What are the processes involved in the service agreement?
+    - What are the various steps to sign a service agreement?
+    
+- intent: faq/provincial_nominee_application_when_where
+  examples: |
+    - When and where does an application under the Provincial Nominee Program get submitted? 
+    - When should I submit the Provincial Nominee Program application?
+    - Should I submit the Provincial Nominee Program application before applying for Visa?
+    - Where should the application for Provincial Nominee Program be submitted?
+    
+- intent: faq/provincial_nomination_uses
+  examples: |
+    - What is the advantage of obtaining a Provincial Nomination?
+    - What is the use of the Provincial Nominee Program?
+    - What is the purpose of a Provincial Nomination?
+    - What do I get from applying for a Provincial Nomination?
+    
+- intent: faq/if_provincial_nomination_mandatory
+  examples: |
+    - Is Provincial Nomination a requirement for Canadian Immigration?
+    - Can I get a Canadian immigration visa without a provincial nomination?
+    - Is it possible to become a permanent resident without provincial nomination?
+    - Is Provincial Nomination mandatory for Canadian Immigration?
+    
+- intent: faq/time_period_after_perm_residence
+  examples: |
+    - How long does the entire process take once an applicant has submitted an application after being invited to apply for permanent residence?
+    - What is the processing time of an application after being invited to apply for permanent residence?
+    - How long is the processing time of an application after being invited to apply for permanent residence?
+    - What is the time taken for an application to finish all processing after being invited to apply for permanent residence?
+    
+- intent: faq/pnp_and_expressentry
+  examples: |
+    - Can candidates use both Provincial Nominee Program (PNP) and Express Entry? 
+    - Is there any connection between Provincial Nominee Program (PNP) and Express Entry?
+    - Can I enhance my Express Entry profile with my Provincial Nomination Certificate?
+    - Is there any relation between my Express Entry profile and Provincial Nomination Certificate?
+    
+- intent: faq/pnp_provinces
+  examples: |
+    - Which provinces participate in the Provincial Nominee Program?
+    - What are the provinces which participate in the Provincial nominee program?
+    - Which provinces come under the Provincial Nominee Program?
+    - How many Provinces come under the Provincial Nominee Program?
+    
+- intent: faq/provincial_nominee_program
+  examples: |
+    - What are the Provincial Nominee Programs?
+    - What is the Provincial Nominee Program?
+    - What is the purpose of the Provincial Nominee Program?
+    - What and how does the Provincial Nominee Program take place? Do all provinces of Canada come under it?
+    
+- intent: faq/immigrating_without_express_entry
+  examples: |
+    - Is Express Entry the only way for an international worker to live and work in Canada?
+    - Is Express Entry mandatory for an international worker to live and work in Canada?
+    - Is Express Entry required to move to Canada?
+    - Can I move to Canada without an Express Entry or is it absolutely required?
+    
+- intent: faq/invitation_to_apply_for_perm_residence
+  examples: |
+    - If a candidate receives an invitation from a province or territory, is that candidate obliged to move to that province or territory? 
+    - On receiving an invitation to apply for permanent residence from a Canadian province or territory am I obliged to move there?
+    - What should a candidate do upon receiving an invitation to apply for permanent residence from a Canadian province or territory?
+    - Can a candidate work/live anywhere in Canada eventhough receiving invitation to apply for permanent residence from a specific Canadian province or territory?
+    
+- intent: faq/profile_duration_in_ee_pool
+  examples: |
+    - How long does a candidate's profile remain in Express Entry pool?
+    - What happens to an applicant's profile in the Express Entry pool?
+    - For how much time does a candidate's profile remain in the Express Entry pool?
+    - In the Express Entry pool how long does a candidate's profile remain?
+    
+- intent: faq/documents_after_perm_residence
+  examples: |
+    - What supporting documentation needs to be submitted once a candidate has been invited to apply for permanent residence?
+    - What are the supporting documents should I submit on receiving an invitation to apply for permanent residence?
+    - Do I need to provide furthermore documents after being invited to apply for permanent residence? If so what are they?
+    - What are the documents required for further processing after receiving an invitation to apply for permanent residence?
+    
+- intent: faq/immigration_without_job_offer
+  examples: |
+    - Does a candidate need a job offer in order to immigrate to Canada under Express Entry? 
+    - Is a job offer required for immigration under Express Entry?
+    - Is a job offer mandatory for immigration?
+    - Can a candidate immigrate to Canada under Express Entry without a job offer?
+    
+- intent: faq/employers
+  examples: |
+    - What role do Canadian employers play under Express Entry?
+    - What is the role of Canadian employers in immigration?
+    - Do Canadian employers play any part in immigration?
+    - Can Canadian employers increase the chances of a successful immigration?
+    
+- intent: faq/ee_program_occupation_eligibility
+  examples: |
+    - Are there any eligible occupation lists for any of the programs under the Express Entry?
+    - Is there any eligibility for occupation in any program under the Express Entry?
+    - What is the eligibility requirement to apply for a program under Express Entry?
+    - What occupation should a candidate be in to be eligible for a program under Express Entry?
+    
+- intent: faq/comprehensive_ranking_system
+  examples: |
+    - What is the Comprehensive Ranking System?
+    - How does the Comprehensive Ranking System work?
+    - What are the factors considered while grading a candidate under the Comprehensive Ranking System?
+    - comprehensive ranking system 
+    
+- intent: faq/express_entry
+  examples: |
+    - What is Express Entry?
+    - How does the Express Entry program work?
+    - Brief the Express Entry program
+    - What is the role of Express Entry in Canadian Immigration process?
+    
+- intent: faq/pgwp_edu_qualifications
+  examples: |
+    - What educational credentials are eligible for the PGWP program? What type of post-secondary institutions are recognized for the program?
+    - Who is eligibile to apply for the PGWP program?
+    - What is the eligibility criteria for the PGWP program?
+    - A candidate holding a degree/diploma from which institutions is eligible to apply for a PGWP? 
+    
+- intent: faq/pgwp_fee
+  examples: |
+    - What are the application fees?
+    - How much does the PGWP program cost?
+    - What is the fee charged for a PGWP?
+    - How much amount would it cost me if I were to enroll for the PGWP program?
+    
+- intent: faq/pgwp_submission_method
+  examples: |
+    - How is the application for a PGWP submitted?
+    - How do I submit my PGWP application?
+    - How should a candidate submit a PGWP application?
+    - Where should the candidate submit his/her application for the PGWP program?
+    
+- intent: faq/pgwp_application_timelimit
+  examples: |
+    - When can an application for PGWP be submitted?
+    - What is the time given for a candidate to apply for PGWP?
+    - What is the time period to submit an application for PGWP?
+    - When should I apply for PGWP?
+    
+- intent: faq/pgwp_eligibility
+  examples: |
+    - What are the eligibility criteria for a PGWP?
+    - Who is eligible to apply for PGWP?
+    - Am I eligible to apply for PGWP?
+    - When does a international student qualify for PGWP?
+    
+- intent: faq/pgwp
+  examples: |
+    - What is a Post-Graduation Work Permit (PGWP)?
+    - What is PGWP and why do I need it?
+    - What is the purpose of a Post-Graduation Work Permit (PGWP)?
+    - Brief about the Post Graduation Work Permit (PGWP)
+    
+- intent: faq/pei_application
+  examples: |
+    - How can a potential international student apply to study in Prince Edward Island (PEI)?
+    - How do I apply to study in Prince Edward Island (PEI)?
+    - What is the procedure to apply to study in Prince Edward Island (PEI)?
+    - What should a potential international student apply to study in Prince Edward Island (PEI)?
+    
+- intent: faq/pei_fee
+  examples: |
+    - What is the cost of tuition for international students in PEI?
+    - How much would it cost for international students for tuition in PEI?
+    - How much does the university of Prince Edward Island charge the international students for tuition?
+    - What is the tuition fee charged by the University of PEI for international students?
+    
+- intent: faq/pei_healthcare
+  examples: |
+    - What are the health care and insurance options in PEI colleges/universities?
+    - Do PEI colleges/universities offer any student health care plans? If so, what are they?
+    - Can I avail any health care plans/insurance from Prince Edward Island colleges/universities?
+    - What are the health care plans and insurance options provided by PEI colleges/universities?
+    
+- intent: faq/pei_stem
+  examples: |
+    - Where in PEI offers STEM degrees?
+    - What are the STEM courses offered by PEI colleges/universities?
+    - Do PEI colleges/universities offer STEM courses?
+    - How can I find out the STEM courses of PEI colleges/universities?
+    
+- intent: faq/pei_employment_prospects
+  examples: |
+    - What are the employment prospects for international students of PEI after graduation ?
+    - Is studying in PEI worth it?
+    - Are employment prospects for international students of PEI promising?
+    - What are the employment options available for PEI graduates?
+    
+- intent: faq/pei_working
+  examples: |
+    - How can an international graduate work in PEI?
+    - How do graduates work in PEI?
+    - How can I work in PEI after graduation?
+    - What is the procedure to work in PEI after graduation?
+    
+- intent: faq/pei_climate
+  examples: |
+    - What is the climate like in PEI?
+    - How is the Prince Edward Island's weather?
+    - Does PEI have a good climate?
+    - What is the weather like in PEI?
+    
+- intent: faq/pei_positives
+  examples: |
+    - What advantages do students get by studying in PEI?
+    - What are the pros of studying in Prince Edward Island colleges/universities?
+    - What are the benefits of studying in Prince Edward Island (PEI) ?
+    - Is there any positives in studying at Prince Edward Island (PEI)?
+    
+- intent: faq/pei_cities
+  examples: |
+    - What are the largest cities and towns in PEI?
+    - How are the cities in Prince Edward Island (PEI) like?
+    - List some Prince Edward Island (PEI) cities and towns?
+    
+- intent: faq/canadian_passport
+  examples: |
+    - Am I eligible for a Canadian passport?
+    - Who is eligible to have a Canadian passport?
+    - What can I use a Canadian passport for?
+    - What are the uses of owning a Canadian passport?
+    
+- intent: faq/work_permit
+  examples: |
+    - Do I need a work permit?
+    - Who should have a work permit?
+    - Why is a work permit needed for?
+    - Who needs to own a work permit?
+    
+- intent: faq/canadian_citizen
+  examples: |
+    - How can a immigrant become a citizen of Canada?
+    - What is the procedure to become a Canadian Citizen?
+    - How do I become a Canadian Citizen?
+    - What do I need to do to become a citizen?
+    
+- intent: faq/permanent_residency
+  examples: |
+    - What is Permanent Residency?
+    - Who is a Permanent Resident?
+    - What are the concessions given to permanent residents?
+    - permanent Residency
+    
+- intent: faq/canadian_us_immigration
+  examples: |
+    - How does Canadian citizenship assist the visa holder in temporarily entering the United States?
+    - Does Canadian citizenship help in US immigration?
+    - Can Canadian permanent residents travel to the United States without visa?
+    - What are the advantages of a Canadian citizen with respect to US immigration?
+    
+- intent: faq/perm_resident_moving_to_us
+  examples: |
+    - How does permanent resident status assist the visa holder in temporarily entering the United States?
+    - How does a permanent resident of Canada status help in entering the United States?
+    - Is there any advantage for a permanent resident of Canada in moving to the United States? If so, what is it?
+    
+- intent: faq/lang_barrier
+  examples: |
+    - How does language barrier affect migrants?
+    - What are the challenges imposed by language barrier?
+    - What are the difficulties faced my immigrants due to language barrier?
+    - How can language barrier affect a immigrant?
+    
+- intent: faq/ee_max_applicants
+  examples: |
+    - Is there an upper limit on the number of applicants given entry to the pool of Express Entry?
+    - What is the maximum number of applicants given entry to the pool of Express Entry?
+    - How many applicants are given entry to the pool of Express Entry ?
+    - Is there any restrictions on the number of applicants given entry to the pool of Express Entry?
+    
+- intent: faq/job_data_bank
+  examples: |
+    - Job Bank - How does it function with Express Entry?
+    - How does the Job Bank function with Express Entry?
+    - What is the purpose of the Job Data Bank?
+    - What is the Job Data Bank used for?
+    
+- intent: faq/arriving_without_pr_permit
+  examples: |
+    - Is it possible for an Express Entry applicant to arrive in Canada and begin working prior to he obtains his PR Permit? 
+    - Can a Express Entry applicant arrive in Canada and begin working prior to obtaining a PR permit?
+    - Can I move to Canada after applying for Express Entry?
+    - Can Express Entry applicants move to Canada for job purposes before getting a Permanent Resident permit?
+    
+- intent: faq/application_info_verification
+  examples: |
+    - Does the danger of fraud from candidates or recruiters exist?
+    - What happens if a candidate fails to furnish true information?
+    - What happens if a candidate provides false information in his/her application for Permanent residence?
+    - How strict is the applicant information verification process?
+    
+- intent: faq/engineers_canada
+  examples: |
+    - How do I become a member of Engineers Canada?
+    - How can I join the Engineers Canada?
+    - Is it possible to become a member of Engineers Canada?
+    - Can a individual become a member of Engineers Canada?
+    
+- intent: faq/licensed_engineer
+  examples: |
+    - Can a person with an engineering degree call themselves an engineer in Canada?
+    - Are individuals with a engineering degree considered as a an engineer in Canada?
+    - Can I become a engineer after acquiring a engineering degree?
+    - Do engineering graduates become licensed engineers after graduation?
+    
+- intent: faq/practising_engineering
+  examples: |
+    - Can a person with an engineering degree practise engineering in Canada?
+    - Can engineering graduates practise engineering in Canada?
+    - How can a engineering graduate practise engineering in Canada?
+    - How do I practise engineering in Canada after graduation?
+    
+- intent: faq/engineering_license_validity
+  examples: |
+    - Does an engineering licence give permission to practise anywhere in Canada?
+    - Is a engineering licence valid anywhere in Canada?
+    - Can I work anywhere in Canada with my engineering license?
+    - Where is my engineering license valid?
+    
+- intent: faq/canada_vs_india
+  examples: |
+    - Is living in India better than Canada?
+    - What are the pros and cons of living in Canada over India?
+    - What is the difference between living in Canada and India?
+    - How is living in Canada better than living in India?
+    
+- intent: faq/canada_salary
+  examples: |
+    - What is a good salary in Canada 2020?
+    - What is the average salary of a Canadian in 2020?
+    - How much can I earn by working in Canada?
+    - What is considered to be a good salary in Canada?
+    
+- intent: faq/ee_profile_charge
+  examples: |
+    - Is there a charge to present a profile for Express Entry?
+    - How much would it cost to present a profile for Express Entry?
+    - What are the requirements to make a Express Entry profile?
+    - How much should I pay for creating a Express Entry profile?
+    
+- intent: faq/eep_and_immig_conditions
+  examples: |
+    - Does the EEP change or amend the scheme’s immigration conditions?
+    - How does the EEP alter the scheme’s immigration conditions?
+    - Is the immigration scheme's conditions altered by Express Entry?
+    - Does the Express Entry program change any immigration scheme's conditions?
+    
+- intent: faq/lawyer_consultation
+  examples: |
+    - Why should I hire a lawyer for my immigration case?
+    - Do I need a lawyer for my immigration application?
+    - Is legal consultation necessary for filling out an immigration application?
+    - Should a candidate consult a lawyer for filing an immigration application?
+    - Do I need to see a lawyer before filing the immigration application?
+
+- intent: faq/canadian_law_council
+  examples: |
+    - I live far away from Toronto. Can the canadian law council still represent me?
+    - Does the Canadian law council offer its services to clients livining far away from Canada?
+    - How does the Canadian law council represent its clients living far away from Canada?
+    - I live far away from Canada. How can I avail the services of Canadian Law Council?
+    
+- intent: faq/perm_residence_categories
+  examples: |
+    - How do I know if I qualify to immigrate to Canada?
+    - What are the various routes to obtain permanent residence in Canada?
+    - What are the categories under which a applicant obtains permanent residence?
+    - How are the permanent reseidence applications categorized?
+    
+- intent: faq/immig_family_sponsor
+  examples: |
+    - Is it difficult to be sponsored for permanent residence by a family member?
+    - Who can sponsor for permanent residence by a family member?
+    - Can a applicant avail sponsorship from any family member?
+    - From whom do I get sponsorship for family class permanent residence?
+    
+- intent: faq/how_to_license_as_prof_engr
+  examples: |
+    - How do I become a licensed professional engineer in Canada?
+    - Where do I get a professional engineer's license from?
+    - How do I apply for a professional engineer license?
+    - Who is responsible for the licensing of engineers in Canada?
+    
+- intent: faq/invitation_basis
+  examples: |
+    - How can I receive an invitation and apply for permanent residence?
+    - How are invitations sent to candidates?
+    - On what basis are invitations sent to candidates?
+    - How is a candidate invited to apply for permanent residence?
+    
+- intent: faq/immig_ee
+  examples: |
+    - How can I Immigrate through Express Entry?
+    - How does a candidate immigrate through express entry?
+    - How is a candidate selected through Express Entry?
+    - What is express entry based on?
+    
+- intent: faq/canada_french
+  examples: |
+    - Is French the official language of canada?
+    - Is French spoken by Canadians?
+    - What language do canadians speak?
+    - Do Canadians speak french?
+    
+- intent: faq/quality_of_life_canada
+  examples: |
+    - How will be the quality of life in canada?
+    - How is the quality of living in Canada?
+    - What's it like to live in Canada?
+    - What can I get from moving to Canada?
+    
+- intent: faq/canadian_government
+  examples: |
+    - How government works in canada?
+    - What type of government does Canada have?
+    - What's the Canadian government like?
+    - How does the Canadian government function?
+    - In what manner does the Canadian government function?
+
+- intent: faq/covid19_canada
+  examples: |
+    - How good is the canada fight for Covid-19?
+    - How effective is the Canadian government in dealing with Covid-19?
+    - How is Canada dealing with Covid-19?
+    - How is the Canadian government managing covid-19?
+    
+- intent: faq/working_for_canadian_govt
+  examples: |
+    - Can a non Canadian work for the Canadian government?
+    - Can immigrants work for the Canadian government?
+    - Can I work under the Canadian government?
+    - Is it possible for non-citizens to work in Canada?
+    
+- intent: faq/without_work_permit
+  examples: |
+    - Who does not need a work permit in Canada?
+    - How can I move to Canada without a work permit?
+    - Do all immigrants need a work permit?
+    - Who does not require a work permit in Canada?
+    
+- intent: faq/work_permit_for_canadians
+  examples: |
+    - Do I need a work permit if I am a Canadian citizen?
+    - Do Canadian citizens require a work permit to work in Canada?
+    - Do permanent residents need a work permit to work in Canada?
+    - Who needs to own a work permit to work in Canada?
+    
+- intent: faq/primary_edu
+  examples: |
+    - What is the age to start your education in Canada?
+    - How is primary education in Canada compared to Canada?
+    - when do children start their education in India and Canada?
+    - Comparison between primary education age of India and Canada
+    
+- intent: faq/sin
+  examples: |
+    - How to Get a social insurance number (SIN)?
+    - How do I earn a SIN (Social insurance number)?
+    - What is the procedure to get a Social Insurance Number (SIN)?
+    - How can a person apply for a Social Insurance Number (SIN)?
+    
+- intent: faq/canadian_passport_where
+  examples: |
+    - Where would I get a Canadian Passport?
+    - How to apply for a passport?
+    - Where should a Canadian citizen apply for a passport?
+    - How do I apply for a Canadian passport?
+    
+- intent: faq/ircc_appointment_rescheduling
+  examples: |
+    - What if I cannot attend my citizenship appointment with IRCC? Can I reschedule it?
+    - Is it possible to reschedule citizenship appointment with IRCC?
+    - What happens if a person cannot attend their appointment with IRCC? Can they reschedule it?
+    - Can I reschedule my citizenship appointment with IRCC if I cannot attend it?
+    
+- intent: faq/ircc_abrev
+  examples: |
+    - What is IRCC?
+    - What does IRCC stand for?
+    - What is the abbreviation of IRCC?
+    - What does IRCC mean?
+    
+- intent: faq/application_withdrawal
+  examples: |
+    - Is it possible to withdraw an application?
+    - How do I withdraw an application?
+    - How can a candidate withdraw an application?
+    - What if I want to withdraw my application? Is it possible?
+    
+- intent: faq/after_creating_ircc_user_profile
+  examples: |
+    - How do I access the application for funding?
+    - How to access the application for funding?
+    - What should I do after creating a user profile for my application?
+    - What is a candidate supposed to do after creating a user profile?
+    
+- intent: faq/visa_age_limit
+  examples: |
+    - Is there any age limit to apply for Canadian Visa?
+    - What is the age limit to apply for Canadian Visa?
+    - What is the upper limit to age for Canadian Visa application?
+    - Does the Canadian Visa application have any age limit?
+    
+- intent: faq/dual_citizenship
+  examples: |
+    - Can i maintain dual citizenship between India and Canada?
+    - Is it possible to maintain dual citizenship between India and Canada?
+    - Can I have both Indian and Canadian citizenship at the same time?
+    - Is acquiring both Indian and Canaian citizenship possible?
+    
+- intent: faq/sponsoring_relatives
+  examples: |
+    - What are the formalities to be followed to sponsor my relatives ?
+    - What is the procedure to be followed to sponsor my relatives ?
+    - How can I sponsor a relative of mine?
+    - How to sponsor a relative to come to Canada as a permanent resident?
+    
+- intent: faq/is_ielts_mandatory
+  examples: |
+    - Should i need to clear IELTS to get my higher studies opportunities in Canada?
+    - Is IELTS mandatory to pursue higher studies in Canada?
+    - Is it necessary to have cleared the IELTS exam to get higher studies in Canada?
+    - Do I need to clear IELTS to pursue higher studies in Canada?
+    
+- intent: faq/visa_eligibility
+  examples: |
+    - Who is eligible to apply for Canadian visa?
+    - What is the eligiblity criteria for applying a visa?
+    - What are the requirements to get a visitor visa?
+    - Who can apply for a visitor visa?
+    
+- intent: faq/2021_application_processing
+  examples: |
+    - When does the application processing complete in 2021? 
+    - When will my 2021 application finish processing?
+    - When are applications expected to finish processing in 2021?
+    - Before when will my application finish processing?
+    
+- intent: faq/settling_in_canada
+  examples: |
+    - How Can We Settle in Canada?
+    - How do I settle in Canada?
+    - How can I get settled in Canada?
+    - What should I do to settle in Canada?
+    
+- intent: faq/work_in_canada
+  examples: |
+    - How Can I Get Work in Canada?
+    - What is the procedure to work in Canada?
+    - How do I work in Canada?
+    - How can a person work in Canada?
+    
+- intent: faq/temp_residence
+  examples: |
+    - How Can I Get Temporary Residence in Canada?
+    - How do I acquire temporary residence in Canada?
+    - How do I become a temporary resident of Canada?
+    - What would I need to get temporary residence in Canada?
+    
+- intent: faq/immig_without_job_offer
+  examples: |
+    - Do you need a job offer to immigrate to Canada?
+    - Is it possible to immigrate to canada without a job offer?
+    - Can I move to Canada without a job offer?
+    - Is immigrating without job offer possible?
+    - Do I need a job offer to immigrate to Canada?
+
+- intent: faq/working_before_license
+  examples: |
+    - Can I work in Canada before I become a licensed professional engineer?
+    - Can a person work before becoming a licensed professional engineer?
+    - Is it possible to work before becoming a licensed professional engineer? 
+    
+- intent: faq/prof_eng_exams
+  examples: |
+    - How many examinations will I have to write to receive my licence as a professional engineer in Canada?
+    - What are the examinations I should take up to receive a professional engineer license?
+    - How do I take up the examinations for professional engineer licensing?
+    - How can I know about the exams for professional engineer licensing?
+    
+- intent: faq/foreign_eng_license
+  examples: |
+    - How does an engineer from a foreign country become licensed to work in Canada?
+    - How can a foreign engineer work with a license in canada? 
+    - I am a foreign engineer who wishes to work in Canada. What am I supposed to do?
+    - How do foreign engineers avail a professional engineer license to work in Canada?
+    
+- intent: faq/temp_eng_license
+  examples: |
+    - Can an engineer from a foreign country be licensed to work in Canada on a temporary basis?
+    - Is it possible to avail a temporary foreign engineer license to work in Canada?
+    - Can I get a temporary foreign engineer license to work in Canada?
+    - I just arrived in Canada. How do I find out if I am qualified to become an engineer?
+    
+- intent: faq/degree_transfer
+  examples: |
+    - How do I know if the degrees I take are transferable to Canada or if I would have to take any equivalency exams?
+    - How can I know if my degrees are transferable to Canada or if I would have to take any equivalency exams?
+    - Are my degrees transferrable to Canada or should I take any equivalent exams?
+    - Can I transfer my degrees to Canada? Or should I take any equivalency exams?
+    
+- intent: faq/mech_engineer_immig
+  examples: |
+    - Can I immigrate to Canada as a Mechanical Engineer?
+    - How to Immigrate to Canada as a Mechanical Engineer?
+    - Can Mechanical Engineers immigrate to Canada?
+    
+- intent: faq/mech_engineer_skills
+  examples: |
+    - What Skills Required to Immigrate to Canada as a Mechanical Engineer
+    - What is the skillset expected from a Mechanical engineer immigrant in Canada?
+    - What are the skills required for a Mechanical Engineer in Canada?
+    - What skills do I need to immigrate to Canada as a Mechanical Engineer?
+    
+- intent: faq/mech_engineer_qualifications
+  examples: |
+    - What are the Qualifications Required to Immigrate to Canada as a Mechanical Engineer?
+    - How do I qualify as a Mechanical Engineer immigrant?
+    - What are the expected Qualifications of a Mechanical Engineer to immigrate to Canada?
+    - What are the required Qualifications for a Mechanical Engineer to immigrate to Canada?
+    
+- intent: faq/mech_engineer
+  examples: |
+    - How to Immigrate to Canada as a Mechanical Engineer
+    - How do Mechanical Engineers immigrate to Canada?
+    - How can Mechanical Engineers immigrate to Canada?
+    - What should a Mechanical Engineer do to immigrate to Canada?
+    
+- intent: faq/mech_engineer_immig_reg
+  examples: |
+    - How to get registered to Immigrate to Canada as a Mechanical Engineer?
+    - How do Mechanical Engineers register for immigrating to Canada?
+    - How can a Mechanical Engineer register for Canadian immigration?
+    - What should I do to immigrate to Canada as a Mechanical Engineer?
+    
+- intent: faq/mech_engineer_immig_without_job_offer
+  examples: |
+    - Can I immigrate to Canada as a Mechanical Engineer without a job offer?
+    - Can a mechanical engineer immigrate to Canada without a job offer?
+    - Is it possible for a mechanical engineer to immigrate to Canada without a job offer?
+    - Can I immigrate to Canada without a job offer as a mechanical engineer?
+    
+- intent: faq/mech_engineer_job_titles
+  examples: |
+    - What are the Job Titles for a mechanical engineer to work under after Immigrating to Canada?
+    - Under which job titles are mechanical engineers employed after immigrating to Canada?
+    - Which job titles do mechanical engineers take after immigration?
+    - What are the job titles for which mechanical engineers are employed in Canada?
+    
+- intent: faq/mech_engineer_jobs
+  examples: |
+    - Where to Find the Best Mechanical Engineering Jobs in Canada
+    - Where can I find the best mechanical engineer jobs in Canada?
+    - What are some of the best mechanical engineer jobs in Canada?
+    - How can I search for mechanical engineer jobs in Canada?
+    
+- intent: faq/mech_eng_demand
+  examples: |
+    - Are Mechanical Engineers in demand in Canada?
+    - Is there a demand for mechanical engineers in Canada?
+    - Are there any new job openings for mechanical engineers in Canada?
+    - Does canada provide good job opportunities for mechanical engineers?
+    - Is there growth in Mechanical Engineering jobs in Canada?
+ 
+- intent: faq/immigrant_govt_job
+  examples: |
+    - Is it difficult to get a government job in Canada for immigrants?
+    - How difficult or how easy it is for immigrants to get a government job in Canada?
+    - Can I get a government job in Canada after immigrating?
+    - Can a immigrant get a government job in Canada?
+    
+- intent: faq/new_immigrants_taxes
+  examples: |
+    - Do new immigrants to Canada pay taxes?
+    - Should the new immigrants pay taxes?
+    - Are the new immigrants supposed to pay income taxes?
+    - How is income tax calculated for new Canadian immigrants?
+    
+- intent: faq/immigration_cost
+  examples: |
+    - How much money do you need to immigrate to Canada?
+    - How much money will I be needing to immigrate to Canada?
+    - How much would it cost to immigrate to Canada?
+    - What is the cost required for immigration?
+    
+- intent: faq/visitor_work_permit
+  examples: |
+    - Can I apply for work permit in Canada as a visitor?
+    - Is it possible to apply for a work permit as a visitor in canada?
+    - Can a person apply for work permit in Canada as a visitor?
+    - Can I avail a visitor work permit in Canada?
+    
+- intent: faq/marrying
+  examples: |
+    - Do I get Permanent residence if I marry Canadian?
+    - Can I get permanent residence if I marry a Canadian citizen?
+    - If I marry a Canadian citizen can I get permanent residence status?
+    - Can a immigrant get permanent residence status by marrying a Canadian?
+    - Can I become a permanent resident if I marry a Canadian?
+    - Do I become a permanent resident of Canada if I marry a Canadian?
+    - On marrying a Canadian citizen does a immigrant become a permanent resident?
+
+- intent: faq/immigration_age
+  examples: |
+    - What is the maximum age to immigrate to Canada?
+    - Is there any age restrictions to immigrate to Canada?
+    - What is the age limit to immigrate to Canada?
+    - What is the age requirement for immigrating to Canada?
+    - How old should I be for immigrating to Canada?
+    
+- intent: faq/working_eligibility
+  examples: |
+    - How do I know if I am eligible to work in Canada?
+    - What are the requirements for working in Canada?
+    - What is the eligibility to work in Canada?
+    - Who is eligible to work in Canada?
+    
+- intent: faq/pr_waiting
+  examples: |
+    - Can my husband stay in Canada while waiting for PR?
+    - Can my wife stay in Canada while waiting for permanent residence?
+    - Can I stay in Canada while waiting for permanent residence?
+    - Is it legal to stay in Canada while waiting for permanent residence?
+    - Can a person stay in Canada while waiting to become a permanent resident?
+
+- intent: faq/wp_proof_of_funds
+  examples: |
+    - Is proof of funds required for Canada work permit?
+    - Do I need proof of funds to get a work permit?
+    - Do I need to submit a proof of funds to get a work permit?
+    - Can I get a work permit without a proof of funds?
+    
+- intent: faq/biometrics_processing_time
+  examples: |
+    - How long it takes to get a Canada visa after biometric?
+    - How long does it take to get a visa after submitting biometrics?
+    - What is the processing time of an application after submitting biometrics?
+    - How much time would it take for an application to finish processing after submission of biometrics?
+    
+- intent: faq/cash_limit
+  examples: |
+    - How much money can I bring to Canada as a permanent resident?
+    - Is there any limit to the amount of cash which I can bring after getting permanent residence?
+    - Can I bring cash with me while moving to canada?
+    - While moving to Canada what is the limit to the amount of cash which I can carry?
+    
+- intent: faq/overseas_canadian_bank_account
+  examples: |
+    - Can I open a Canadian bank account from outside Canada?
+    - Can I have a bank account in Canada from outside canada?
+    - Is it possible to open a Canadian bank account from outside canada?
+    - Can I open a Canadian bank account from overseas?
+    - Is opening a Canadian bank account from abroad possible?
+
+- intent: faq/immig_health_insurance
+  examples: |
+    - Can immigrants get health insurance in Canada?
+    - Is there any health insurance available for immigrants?
+    - Can immigrants avail any health insurance?
+    - Does Canada provide any health insurance for its immigrants?
+    - Can I get any health insurance?
+    - Who can get health insurance in Canada?
+
+- intent: faq/pvt_health_insurance
+  examples: |
+    - How much does private health insurance cost in Canada?
+    - What is the cost of a private health insurance plan in Canada?
+    - How much do private health insurance plans cost in Canada?
+    - What is the average cost of private health insurance in canada?
+    
+- intent: faq/canadian_embassy
+  examples: |
+    - How do I register with Canadian embassy when traveling?
+    - How to register with the Canadian embassy while traveling?
+    - Why should I register to the embassy of Canada while traveling abroad?
+    - Should I register with the Canadian embassy while traveling abroad? If so, how should I?
+    
+- intent: faq/leaving_or_entering_canada
+  examples: |
+    - Does Service Canada know when you leave the country?
+    - Does the Canadian Government know when I leave the country?
+    - Can the Canadian Government know when you leave or enter the country?
+    - Does Service Canada track who leaves and enters the country?
+    
+- intent: faq/staying_overseas
+  examples: |
+    - Can I stay out of Canada for more than 6 months?
+    - Can Canadians stay out of Canada for more than 6 months?
+    - How many days can a Canadian citizen stay in abroad?
+    - For how long can a Canadian citizen stay overseas?
+    - How long is a Canadian citizen allowed to stay outside of Canada?
+
+- intent: faq/money_factors
+  examples: |
+    - How much money do you need to immigrate to Canada?
+    - How much will it cost me to immigrate to Canada?
+    - What are the factors that affect the cost of immigration?
+    - Is the cost of immigration same for everyone?
+    - How does the cost of immigration vary depending on the type of application?
+
+- intent: faq/applying_pr
+  examples: |
+    - How can I apply for PR in Canada?
+    - How do I apply for PR in Canada?
+    - How to apply for permanent residence in Canada?
+    - How to apply for becoming a permanent resident of Canada?
+    
+- intent: faq/canadian_citizenship
+  examples: |
+    - How do you become a citizen of Canada?
+    - How to become a citizen of Canada?
+    - How can I become a Canadian citizen?
+    - How to get Canadian citizenship?
+    - What is the procedure to become a citizen of Canada?
+    - How can I get Canadian citizenship?
+
+- intent: faq/immig_qualification
+  examples: |
+    - How do I find out if I qualify for Immigration to Canada?
+    - How can I know if I qualify for Immigration?
+    - How do I know if I am eligible for immigration?
+    - How can I find out if I meet the eligibility criteria for immigration?
+    
+- intent: faq/english_knowledge
+  examples: |
+    - Is it possible to apply for Canadian immigration without a knowledge of English language? 
+    - Can I apply for immigration without knowing English?
+    - Can non-English speakers apply for immigration?
+    - Is English knowledge necessary for applying for immigration?
+    
+- intent: faq/ee_undergraduate
+  examples: |
+    - Do I need an undergraduate (Bachelor’s) degree for Canadian immigration programs? 
+    - Will I be needing atleast an undergraduate degree for immigration Express Entry Program?
+    - Do I need an Bachelor's (Undergraduate) degree to qualify for the Express Entry program?
+    - Is an Undergraduate degree required for immigration under Express Entry program?
+    
+- intent: faq/citizenship_rules
+  examples: |
+    - Can I lose my Canadian citizenship if I live abroad?
+    - Do I lose my Canadian citizenship if I live abroad?
+    - Does a Canadian citizen lose his/her citizenship if on living outside Canada?
+    - Do citizens who live outside Canada lose their citizenship?
+    
+- intent: faq/pension_after_moving_out_of_canada
+  examples: |
+    - Can i collect Canada Pension if you live outside of Canada?
+    - Are people who move out of Canada eligible for canadian pension?
+    - How can people who move out of Canada receive pension?
+    - If I move out of Canada after living there for years, am I still eligible to get pension?
+    - How can I receive pension after moving out of Canada?
+    
+- intent: faq/nontaxable_foreign_income
+  examples: |
+    - How much foreign income is tax free in Canada?
+    - What is the amount of non-taxable foreign income in Canada?
+    - What is the limit to non-taxable foreign income?
+    - What is the amount of tax-free foreign income in Canada?
+    
+- intent: faq/tax_for_abroad_canadians
+  examples: |
+    - Do Canadian citizens living abroad pay taxes?
+    - Are canadian citizens living abroad liable to pay any taxes?
+    - Should Canadian citizens living abroad pay taxes?
+    - Does Canada charge taxes on its citizens who work or live abroad?
+    
+- intent: faq/disabled_people_immig
+  examples: |
+    - Can people with disabilities apply for Canadian immigration? 
+    - Can disabled people apply for immigration?
+    - Is it possible for people with disabilities to immigrate to Canada?
+    - Are people with disabilities eligible to apply for Canadian immigration?
+    
+- intent: faq/immig_rep
+  examples: |
+    - Are candidates required to hire an immigration representative?
+    - Do I need a immigration representative?
+    - Should I hire a immigration representative?
+    - Is a immigration representative necessary for immigration processes?
+    
+- intent: faq/pr_govt_job
+  examples: |
+    - Can PR holders get government job in Canada?
+    - Can Permanent Residents get a government job in Canada?
+    - Is it possible for PR holders to get government job in Canada?
+    - Are PR holders eligible for government jobs in Canada?
+    
+- intent: faq/immig_easy_way
+  examples: |
+    - What is the easiest way to move to Canada?
+    - Which is the easiest way to move to Canada?
+    - How can I move to Canada in the easiest possible way?
+    - How do I immigrate to Canada easily?
+    - What is the easiest way to immigrate to Canada?
+
+- intent: faq/perm_resid_duration
+  examples: |
+    - How long must I stay in Canada to keep my permanent resident status?
+    - How long should a person stay in Canada to maintain permanent resident status?
+    - What is the duration of stay to maintain permanent resident status?
+    - How do I keep my permanent residence status?
+    
+- intent: faq/what_perm_resident_confers
+  examples: |
+    - What does Canadian permanent resident status confer?
+    - What do I get from becoming a permanent resident of Canada?
+    - What does a Canadian permanent resident status imply?
+    - What does it mean to become a permanent resident of Canada?
+    
+- intent: faq/fed_skilled_worker_applications
+  examples: |
+    - How long does it take to obtain a permanent resident visa under the Federal Skilled Worker Class?
+    - How long would it take for a federal skilled worker to obtain a permanent residence status?
+    - What is the processing time for permanent resident applications of federal skilled workers?
+    - What is the time duration for a permanent residence application of a federal skilled worker to process?
+    - How long do federal skilled worker applications take to finish processing?
+
+- intent: faq/perm_resid_fam_members
+  examples: |
+    - Who is included in the application for permanent residence?
+    - Who are all included in the permanent resident application?
+    - Which members of my family are included in my permanent resident application?
+    - Which family members should I include in my permanent residence application?
+    
+- intent: faq/pr_applications_processing
+  examples: |
+    - Where are applications submitted?
+    - Where should I submit my permanent resident application?
+    - Where are permanent residence applications processed?
+    - How does the permanent residence applications undergo processing?
+    
+- intent: faq/perm_resident_processing_fee
+  examples: |
+    - What are the applicable processing fees to process an application for permanent residence?
+    - How much does a permanent residence application cost to process?
+    - How much would it cost me to get a permanent residence status?
+    - What is the processing fee of a permanent residence application?
+    
+- intent: faq/visiting_canada
+  examples: |
+    - Must the applicant travel to Canada as part of the immigration process?
+    - Do I need to travel to Canada for the application process?
+    - Should I visit Canada as a part of immigration process?
+    - Will I be needing to travel to Canada for the application processing?
+    
+- intent: faq/immig_selection_interview_members
+  examples: |
+    - Who must attend the selection interview?
+    - Who should attend the immigration selection interview?
+    - Who should be present for the interview for immigration selection?
+    - Should all my family members be present for the immigration selection interview?
+    
+- intent: faq/immig_interview
+  examples: |
+    - What about the interview process?
+    - How would the immigration selection interview go?
+    - Why is there an interview for immigration selection?
+    - What happens in an immigration selection interview?
+    - What type of questions will I be asked in an immigration selection interview?
+    
+- intent: faq/interview_waive
+  examples: |
+    - What about interview waivers?
+    - How is an interview waived?
+    - Can an interview be waived?
+    - Why are some interviews waived?
+    
+- intent: faq/application_documents
+  examples: |
+    - What documents are submitted along with the application? (Applicable for the Centralized Intake Office – Case Processing Centre - Sydney)
+    - What are the information I should provide in the federal skilled worker application?
+    - What are the information I should furnish in the federal skilled worker application?
+    - What are the required documents for federal skilled workers application?
+    
+- intent: faq/differ_job
+  examples: |
+    - What if the intended occupation differs from past employment positions?
+    - Can I work in a job that is different from my past job?
+    - Can I be employed for a job in Canada that is different than my previous job?
+    - What if I worked in a job position that differs with my past job?
+    
+- intent: faq/govt_job_offer
+  examples: |
+    - Is there a requirement for the applicant to obtain a government approved offer of employment in order to qualify for permanent residence under the Skilled Worker Class?
+    - Can a applicant qualify for admission under the federal skilled workers program without an approved offer of employment? 
+    - Do only applicants with a job offer qualify for immigration under the federal skilled workers program?
+    - Is a government job offer favourable for qualification under the federal skilled workers program? 
+    - Is a job offer mandatory for immigration under the federal skilled workers program?
+    - How can I immigrate under the federal skilled workers program without a job offer?
+    
+- intent: faq/occupational_licensing
+  examples: |
+    - What if the intended occupation requires registration/licensing?
+    - Do I need to get a license for my occupation (if required) before immigrating?
+    - Can I get approval for immigration process before getting a license for my occupation?
+    - What do I do if my occupation requires registration/licensing to work?
+    
+- intent: faq/req_funds
+  examples: |
+    - Are assets/personal net worth determining factors in the selection process?
+    - Do my assets/personal net worth contribute to my selection process?
+    - How much funds should I have to be able to immigrate under the skilled worker class?
+    - Should I provide any evidence for my funds?
+    - How do my assets/personal net worth determine the selection process?
+    
+- intent: faq/canadian_relative
+  examples: |
+    - Does it help to have a relative in Canada?
+    - How useful it is to have a relative in Canada?
+    - Is it helpful to have a Canadian relative?
+    - How does having a Canadian citizen as a relative helpful my immigration process?
+    - Do I have better chances of getting selected if I have a relative residing in Canada?
+    - How can a Canadian relative be useful for my immigration process?
+    
+- intent: faq/perm_resid_requisites
+  examples: |
+    - Must an individual reside in Canada in order to maintain permanent resident status?
+    - How long should I reside in Canada to maintain permanent resident status?
+    - How can I maintain permanent resident status without physically being present in Canada?
+    - What are the requirements to maintain permanent resident status?
+    
+- intent: faq/perm_resid_and_temp_visa
+  examples: |
+    - Can foreign nationals who have applied for Canadian permanent residence under the skilled worker class obtain a temporary non-immigrant (visitor's) visa to Canada?
+    - Can I apply for temporary visa and permanent residence at the same time?
+    - Can I wait inside Canada while my permanent residence application is under processing by taking a temporary non-immigrant (visitor's) visa?
+    - Can immigrants avail a temporary visa while waiting for permanent residence?
+    
+- intent: faq/temp_work_permit_and_perm_resid
+  examples: |
+    - Can I apply for a temporary work permit during or before the processing of permanent residence application?
+    - Can foreign nationals who have applied for Canadian permanent residence under the Skilled Worker Class concurrently apply for a temporary non-immigrant employment authorisation?
+    - What is a labour market opinion?
+    - Is it advantageous to apply for a temporary work permit prior to/ before the processing of permanent residence application?
+
+- intent: faq/canadian_labour_market
+  examples: |
+    - Is it more advantageous to apply before or after an applicant has researched the Canadian labour market?
+    - Should I apply after researching about the Canadian labour market?
+    - Why should I know about the Canadian labour market?
+    - How can the Canadian labour market affect the immigration programme?
+    
+- intent: faq/job_prospects
+  examples: |
+    - What are the current prospects for employment in Canada?
+    - What are the current employment prospects in Canada?
+    - How are the current employment prospects in Canada?
+    - Are employment prospects promising in Canada?
+    - Can I get a good job in Canada?
+    
+- intent: faq/canadian_tax_basis
+  examples: |
+    - What are the general tax implications of acquiring Canadian permanent residence?
+    - How does Canada tax its citizens?
+    - Are permanent residents taxable in Canada?
+    - On what basis does the Canadian government impose taxes?
+    
+- intent: faq/quebec_study_application
+  examples: |
+    - Who do I have to contact to submit an application to study in Québec?
+    - How do I submit an application to stay in Quebec?
+    - How can I apply to study in Quebec?
+    - Who do I have to contact to apply for an application to study in Quebec?
+    
+- intent: faq/quebec_study
+  examples: |
+    - What do I need to do to study in Québec?
+    - How do I study in Quebec?  
+    - What is the procedure to study in Quebec?
+    - How do I qualify to study in Quebec?
+
+- intent: faq/quebec_temp_work
+  examples: |
+    - What form do I have to complete to apply to stay in Québec and where can I obtain it?
+    - How can I work temporarily in Quebec?
+    - What is the procedure to work temporarily in Quebec?
+    - Who do I have to contact to work temporarily in Quebec?
+    - How can I get authorization to temporarily work in Quebec?
+    - I received a job offer from Québec for a contract of a few months. What procedures must I follow?
+    
+- intent: faq/quebec_temp_work_conditions
+  examples: |
+    - What conditions must be met to work temporarily in Québec?
+    - What are the conditions to work temporarily in Quebec?
+    - What are the requirements to work temporarily in Quebec?
+    - What are the conditions to be satisfied to temporarily work in Quebec?
+    
+- intent: faq/prof_orders
+  examples: |
+    - Can I obtain information on professional orders?
+    - How can I know about professional orders?
+    - I want to know about professional orders
+    - How do I obtain information on professional orders?
+    
+- intent: faq/quebec_jobs
+  examples: |
+    - Can I obtain information on how to search for a job in Québec?
+    - How do I search for jobs in Quebec?
+    - Where can I find information about jobs in Quebec?
+    - What are the available job opportunities in Quebec?
+    - Can I obtain information on the Québec job market?
+
+- intent: faq/list_of_areas_of_training
+  examples: |
+    - What is the purpose of the list of areas of training?
+    - What is the use of the list of areas of training?
+    - How is the list of areas of training used?
+    - What is the list of areas of training?
+    
+- intent: faq/french_test
+  examples: |
+    - Can I submit the results of a French test given by a professional order in Québec?
+    - Can a person submit the results of a French test given by a professional order in Quebec?              
+    - Is it possible to submit the results of a French test given by a professional order in Québec?
+    - Can the results of a French test given by a professional order submitted in Québec?
+    
+- intent: faq/english_french_test
+  examples: |
+    - Do I have to submit the results of a written English test when submitting my application?
+    - Should I submit the results of a writen English test while submitting my application?
+    - Should I take up a English test for immigration?
+    - Why should I take up a English/French test for immigration?
+    - Should the applicants of regular skilled worker program take up a english/french test?
+   
+- intent: faq/max_applications_refund
+  examples: |
+    - How can I know if my application was received before the maximum number was attained, based on the current requirements for managing applications?
+    - What happens if my application is received after the maximum number has reached?
+    - Will I be refunded if my application was received after the maximum number of applications has reached?
+    - How can a candidate know if his/her application was received before the maximum number of applications was reached?
+    
+- intent: faq/quebec_worker_immig_prerequisites
+  examples: |
+    - What are the prerequisites for immigrating to Québec as a worker?
+    - What are the prerequisites for a worker to immigrate to Quebec?
+    - Where can I find the prerequisites for immigrating to Québec as a worker?
+    - How can I know about the prerequisites for immigrating to Québec as a worker?
+    
+- intent: faq/quebec_immig_work
+  examples: |
+    - What steps do I need to follow to immigrate to Québec to work?
+    - What are the steps to immigrate to Quebec for work?
+    - What is the procedure to be followed to immigrate to Quebec to work?
+    - What are the steps one must follow to immigrate for work?
+    
+- intent: faq/selection_admission_diff
+  examples: |
+    - Why do I have to complete different procedures with the gouvernement du Québec and the Government of Canada?
+    - Why should I complete different procedures with the gouvernement du Québec and the Government of Canada?
+    - Why is it necessary to complete different procedures with the gouvernement du Québec and the Government of Canada?
+    - What is the difference between selection and admission of workers?
+    
+- intent: faq/qualifying_chances
+  examples: |
+    - Can I find out what my chances are of qualifying to immigrate to Québec?
+    - How can I find out my chances of qualifying to immigrate to Canada?
+    - What are my chances of qualifying to immigrate to Canada?
+    
+- intent: faq/eTA
+  examples: |
+    - I am a citizen of the United Kingdom and intend on visiting Toronto, Canada, entering over land from the US. Do I need an electronic Travel Authorization (eTA)?
+    - Do citizens of a visa exempt country need an eTA to travel to Canada?
+    - Will I be needing an electronic Travel Authorization (eTA) to travel to Canada through land?
+    - Do UK citizens need an eTA to travel to Canada?
+    
+- intent: faq/multiple_ee_profiles_with_diff_noc
+  examples: |
+    - Is it possible to create multiple Express Entry profiles with different National Occupational Classification (NOC) codes, one with NOC 2173 and the other with NOC 2174?
+    - Can I have multiple Express Entry profiles with different National Occupational Classification (NOC) codes?
+    - Can I avail multiple Express Entry profiles with different National Occupational Classification (NOC) codes?
+    - How can I create multiple Express Entry profiles with different NOC codes?
+    
+- intent: faq/
+  examples: |
+    - I am permanent resident in Canada and already applied for citizenship, which is in process. I recently got married and my husband is on a student visa in the USA but he has a Pakistani passport. Now I want to sponsor him. Can I live with him in the USA after applying for sponsorship from Canada? Does it affect on my application for sponsorship?
+    - 
+    - 
+    - 
+    
+- intent: faq/quebec_immig
+  examples: |
+    - What if a prospective applicant is destined to the Province of Quebec?
+    - 
+    - 
+    - 
+    
+- intent: faq/pnp_province
+  examples: |
+    - What if a prospective applicant is destined to a Province that administers a provincial nominee immigration program?
+    - 
+    - 
+    - 
 
 - intent: deny
   examples: |
