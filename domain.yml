@@ -334,7 +334,7 @@ responses:
   utter_faq/immigration_interview_duration:
   - text: "The interview itself will last about half an hour where the officials will ask the questions and you will have to answer them.\n But you may have to wait at the office until you are called upon!"
 
-  utter_faq/service_agreement:
+  utter_faq/service_agreements:
   - text: "After 30 minutes of a free consultation with one of the licensed immigration consultants, the applicant signs a service agreement, receives a list of programs (based on his/her background and study plan) to choose a desired one.\n Afterward, depending on the learning institution it takes up to 45 days to get admission from the school (College, University), and finally, within 20 days receives the student visa." 
 
   utter_faq/min_IELTS:
@@ -563,7 +563,7 @@ responses:
   - text: "Immigration, Refugees and Citizenship Canada Government department"
 
   utter_faq/application_withdrawal:
-  - text: "If at any point in the application an error is made you can withdraw the application and start a new one by clicking "withdraw" on the erroneous application, and click "new" to begin a new one."
+  - text: "If at any point in the application an error is made you can withdraw the application and start a new one by clicking withdraw on the erroneous application, and click new to begin a new one."
 
   utter_faq/after_creating_ircc_user_profile:
   - text: "Once you have created a user profile within the IRCC online portal, you can access the online application and begin completing each section of the application at your own pace."

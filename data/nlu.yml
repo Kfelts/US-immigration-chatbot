@@ -779,7 +779,7 @@ nlu:
     - What is the duration of the immigration interview?
     - When can I know the results of the interview?
     - How long would the interview last?
-- intent: faq/service_agreement
+- intent: faq/service_agreements
   examples: |
     - What services are included to study programs?
     - How can I get consultation about the service agreement?
