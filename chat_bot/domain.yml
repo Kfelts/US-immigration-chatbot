@@ -847,7 +847,7 @@ responses:
   utter_faq/multiple_ee_profiles_with_diff_noc:
   - text: "According to Immigration, Refugees and Citizenship Canada (IRCC), individuals may only have one Express Entry profile at a time, as set out in Canada’s immigration law."
 
-  utter_faq/:
+  utter_faq/doubt_on_sponser:
   - text: "Under Canada’s immigration regulations, a permanent resident who wishes to sponsor a spouse or common-law partner for permanent residence must reside in Canada throughout the application process.\n Canadian citizens, on the other hand, may reside inside or outside Canada during the process of sponsoring a spouse or common-law partner for immigration to Canada.\n However, in such a case the couple must have the intention to return to Canada once the application is finalised.\nA permanent resident of Canada who submits an application to sponsor a spouse or common-law partner, and then chooses to live outside Canada, may jeopardise the success of the application.\n If the permanent resident is eligible for citizenship and has applied for that status, it may be worth it to wait until citizenship is granted before submitting the sponsorship application."
 
   utter_faq/quebec_immig:
@@ -855,6 +855,9 @@ responses:
 
   utter_faq/pnp_province:
   - text: "All of the provinces have concluded agreements with the Canadian government under the Provincial Nominee program, which provide for the selection of a very limited number of foreign nationals destined to one of those provinces each year.\n Most provincial programs require employer sponsorship to support a nomination.\n Owing to the general requirement of employer sponsorship as well as the high volume of applications that are currently awaiting processing under most provincial program outside Quebec, applicants applying under a Provincial Nominee program are strongly encouraged to secure approved job offers, regardless of the point total received following a self-assessment, in order to increase their chances for approval under a provincial nominee program."
+
+  utter_faq/canada_location:
+  - text: "Canada is located in the top half of North America, and the country is bordered by three oceans: Pacific, Atlantic and Arctic."
 
   utter_happy:
   - text: "Great, carry on!"

@@ -1998,26 +1998,33 @@ nlu:
     - Can I avail multiple Express Entry profiles with different National Occupational Classification (NOC) codes?
     - How can I create multiple Express Entry profiles with different NOC codes?
     
-- intent: faq/
+- intent: faq/doubt_on_sponser
   examples: |
     - I am permanent resident in Canada and already applied for citizenship, which is in process. I recently got married and my husband is on a student visa in the USA but he has a Pakistani passport. Now I want to sponsor him. Can I live with him in the USA after applying for sponsorship from Canada? Does it affect on my application for sponsorship?
-    - 
-    - 
-    - 
+    - I applied for citizenship, it is in process.I recently got married and my husband has a Pakistani passport.Will this affect on my application for sponsorship?
+    - My citizenship application is on process. I got married now and my husband is on a student visa in the USA. Will I get sponsorship?
+    - my spouse is on a student visa in the USA. Now I want to sponsor him. Can I live with him in the USA after applying for sponsorship from Canada? Does it affect on my application for sponsorship?
     
 - intent: faq/quebec_immig
   examples: |
     - What if a prospective applicant is destined to the Province of Quebec?
-    - 
-    - 
-    - 
+    - Is there issue if prospective applicant is imminent to the province of quebec.
+    - can expected applicant is destined to province of quebec?
+    - is province of quebec destined for prospective applicant
     
 - intent: faq/pnp_province
   examples: |
     - What if a prospective applicant is destined to a Province that administers a provincial nominee immigration program?
-    - 
-    - 
-    - 
+    - What if a prospective applicant is destined to a Province?
+    - What if a prospective applicant is administers a provincial nominee immigration program?
+    - If applicant belong Province that direct a provincial nominee immigration program?
+
+- intent: faq/canada_location
+  examples: |
+    - Where is canada located?
+    - where is canada?
+    - in which place canada is located?
+    - location of canada
 
 - intent: deny
   examples: |
