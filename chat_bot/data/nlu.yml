@@ -2025,7 +2025,7 @@ nlu:
     - where is canada?
     - in which place canada is located?
     - location of canada
-
+  
 - intent: deny
   examples: |
     - no
